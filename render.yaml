@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: lastbench
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      # Optional. Leave blank to run without AI; a key here is used by everyone who opens the site.
+      - key: ANTHROPIC_API_KEY
+        sync: false
