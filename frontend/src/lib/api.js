@@ -60,6 +60,7 @@ export const api = {
 }
 
 export const unitPdfUrl = (id) => `/api/cn/units/${id}/pdf`
+export const formulasPdfUrl = '/api/cn/formulas/pdf'
 export const deckPdfUrl = (id) => `/api/studio/decks/${id}/pdf`
 
 /** Stream an Ask AI answer. Calls onEvent for each server-sent event. */

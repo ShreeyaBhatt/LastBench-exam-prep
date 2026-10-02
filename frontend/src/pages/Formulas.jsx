@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { FibreDot, PageHeader, Spinner } from '../components/ui'
-import { api } from '../lib/api'
+import { FibreDot, LinkButton, PageHeader, Spinner } from '../components/ui'
+import { api, formulasPdfUrl } from '../lib/api'
 
 export default function Formulas() {
   const [units, setUnits] = useState(null)
@@ -11,7 +11,15 @@ export default function Formulas() {
   if (!units) return <Spinner />
   return (
     <div className="space-y-8">
-      <PageHeader eyebrow="Revise in 5 minutes" title="Formula sheet">
+      <PageHeader
+        eyebrow="Revise in 5 minutes"
+        title="Formula sheet"
+        actions={
+          <LinkButton href={formulasPdfUrl} download>
+            Download PDF
+          </LinkButton>
+        }
+      >
         Every formula, rule and common trap from the ten units. Read it the night before the exam.
       </PageHeader>
       <div className="columns-1 gap-6 md:columns-2">

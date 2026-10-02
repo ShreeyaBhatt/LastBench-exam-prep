@@ -238,6 +238,35 @@ def unit_pdf(course, unit, questions, diagram_dir):
     return buf.getvalue()
 
 
+# ---- formula sheet ----------------------------------------------------------------
+
+def formulas_pdf(course):
+    buf = io.BytesIO()
+    doc = _doc(buf, f"{course['code']} Formula sheet")
+    width = doc.width
+    st = [
+        Paragraph(f"{course['name'].upper()}  ·  REVISE IN 5 MINUTES", S["kicker"]),
+        Paragraph("Formula sheet", S["title"]),
+        Paragraph("Every formula, rule and common trap from the ten units.", S["body"]),
+    ]
+    for unit in course["units"]:
+        notes = unit["notes"]
+        block = [Paragraph(f"Unit {unit['id']}: {inline(unit['title'])}  "
+                           f"<font size='8.5' color='#5b6b64'>{unit['test']}</font>", S["h1"])]
+        if notes["formulas"]:
+            block.append(_kv_table(notes["formulas"], width, ("Name", "Formula")))
+            block.append(Spacer(1, 4))
+        # Keep each unit's heading with the start of its table so it never sits alone at a page foot.
+        st.append(CondPageBreak(35 * mm))
+        st += block
+        if notes["traps"]:
+            st.append(Paragraph("Exam traps", S["h2"]))
+            st += [Paragraph(inline(t), S["bullet"], bulletText="!") for t in notes["traps"]]
+    label = f"{course['code']} · Formula sheet"
+    doc.build(st, onFirstPage=_decorator(label, ACCENT), onLaterPages=_decorator(label, ACCENT))
+    return buf.getvalue()
+
+
 # ---- Notes Studio pack ------------------------------------------------------------
 
 def deck_pdf(subject, deck):

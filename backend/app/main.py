@@ -144,6 +144,13 @@ def formulas():
              "traps": u["notes"]["traps"]} for u in course()["units"]]
 
 
+@app.get("/api/cn/formulas/pdf")
+def formulas_pdf():
+    c = course()
+    return Response(pdf_export.formulas_pdf(c), media_type="application/pdf",
+                    headers={"Content-Disposition": f'attachment; filename="{c["code"]}-Formula-Sheet.pdf"'})
+
+
 @app.get("/api/cn/quiz")
 def quiz(units: str = "", n: int = 10):
     wanted = {int(x) for x in units.split(",") if x.strip().isdigit()}
