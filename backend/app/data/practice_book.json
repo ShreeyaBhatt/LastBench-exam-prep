@@ -1,0 +1,5462 @@
+{
+"1": {
+"n": 1,
+"u": "1",
+"q": "The first Network was called _____",
+"a": "D",
+"m": "1",
+"o": [
+"CNNET",
+"NSFNET",
+"ASAPNET",
+"ARPANET"
+]
+},
+"2": {
+"n": 2,
+"u": "1",
+"q": "Three or more devices share a link in _____ connection.",
+"a": "B",
+"m": "1",
+"o": [
+"Unipoint",
+"Multipoint",
+"Point to point",
+"Simplex"
+]
+},
+"3": {
+"n": 3,
+"u": "1",
+"q": "Two devices are in network if _____",
+"a": "A",
+"m": "1",
+"o": [
+"a process in one device is able to exchange information with a process in another device",
+"a process is running on both devices",
+"PIDs of the processes running of different devices are same",
+"a process is active and another is inactive"
+]
+},
+"4": {
+"n": 4,
+"u": "1",
+"q": "can determine the category of a network. _____",
+"a": "D",
+"m": "1",
+"o": [
+"Size",
+"Ownership",
+"The Physical Architecture",
+"All of the above"
+]
+},
+"5": {
+"n": 5,
+"u": "1",
+"q": "In computer networks, LAN stands for _____ Area Network",
+"a": "A",
+"m": "1",
+"o": [
+"Local",
+"Live",
+"Long",
+"Length"
+]
+},
+"6": {
+"n": 6,
+"u": "1",
+"q": "Lower layer is responsible for _____ (on the receiver side)",
+"a": "B",
+"m": "1",
+"o": [
+"The letter is picked up, removed from envelope, and read",
+"The letter is delivered from the carrier to the post oddice",
+"The letter is carried from the post office to the mailbox.",
+"None of the above."
+]
+},
+"7": {
+"n": 7,
+"u": "1",
+"q": "Which layer is not present in TCP/IP?",
+"a": "D",
+"m": "1",
+"o": [
+"Application layer",
+"Internet Layer",
+"Transpot Layer",
+"Presentation Layer"
+]
+},
+"8": {
+"n": 8,
+"u": "1",
+"q": "In computer networks, MAN stands for _____ Area Network.",
+"a": "C",
+"m": "1",
+"o": [
+"Master",
+"Maximum",
+"Metropolitan",
+"Mini"
+]
+},
+"9": {
+"n": 9,
+"u": "1",
+"q": "_______ Which of the follwing are network services?",
+"a": "D",
+"m": "1",
+"o": [
+"File Service",
+"Print Service",
+"Database Service",
+"All of the above"
+]
+},
+"10": {
+"n": 10,
+"u": "1",
+"q": "TCP/IP has how many layers?",
+"a": "B",
+"m": "1",
+"o": [
+"5",
+"4",
+"6",
+"7"
+]
+},
+"11": {
+"n": 11,
+"u": "1",
+"q": "The _____ layer changes bits onto electromegnetic signals.",
+"a": "A",
+"m": "1",
+"o": [
+"Physical",
+"Transport",
+"Data Link",
+"Presentation"
+]
+},
+"12": {
+"n": 12,
+"u": "1",
+"q": "A device that is used to connect number of LANs",
+"a": "A",
+"m": "1",
+"o": [
+"Router",
+"Repeter",
+"Bridge",
+"All of the above"
+]
+},
+"13": {
+"n": 13,
+"u": "1",
+"q": "A gorup of computers and other devices connected together is called network, and concept of connected computers sharing resources is called _____",
+"a": "A",
+"m": "1",
+"o": [
+"Networking",
+"Inter-Network",
+"Inter-Connection",
+"Computer Group"
+]
+},
+"14": {
+"n": 14,
+"u": "1",
+"q": "Which is main function of Transport layer?",
+"a": "B",
+"m": "1",
+"o": [
+"Node to Node delivery",
+"End to End delivery",
+"Synchronization",
+"All of the above"
+]
+},
+"15": {
+"n": 15,
+"u": "1",
+"q": "Which of the following networking hardware can operate at anyone of the seven layers of the open systems interconnection model?",
+"a": "B",
+"m": "1",
+"o": [
+"Router",
+"Getway",
+"Switch",
+"Modem"
+]
+},
+"16": {
+"n": 16,
+"u": "1",
+"q": "Which of the following represents Latency?",
+"a": "A",
+"m": "1",
+"o": [
+"propagation time +transmission time +queuing time + processing delay",
+"propagation time -transmission time +queuing time + processing delay",
+"propagation time +transmission time +queuing time - processing delay",
+"propagation time +transmission time - queuing time - processing delay"
+]
+},
+"17": {
+"n": 17,
+"u": "1",
+"q": "What is the time needed by each device on a network, to hold the message before processing, called as?",
+"a": "B",
+"m": "1",
+"o": [
+"Propagation Time",
+"Queuing time",
+"Transmission TIme",
+"Jitter"
+]
+},
+"18": {
+"n": 18,
+"u": "1",
+"q": "Which of the following devices can help to extend the range of a wireless router?",
+"a": "A",
+"m": "1",
+"o": [
+"Wireless Repeter",
+"Wireless Adapter",
+"Wimax",
+"Network Interface Card"
+]
+},
+"19": {
+"n": 19,
+"u": "1",
+"q": "What does ARPANET stand for?",
+"a": "B",
+"m": "1",
+"o": [
+"Automated Research Projects Agency Network",
+"Advanced Research Projects Agency Network",
+"American Research Projects Agency Network",
+"American Research Projects Automated Network"
+]
+},
+"20": {
+"n": 20,
+"u": "1",
+"q": "What does a set of rules define?",
+"a": "D",
+"m": "1",
+"o": [
+"SMTP",
+"FTP",
+"IAMP",
+"Protocol"
+]
+},
+"21": {
+"n": 21,
+"u": "1",
+"q": "Identify the total versions of IP.",
+"a": "B",
+"m": "1",
+"o": [
+"1",
+"2",
+"4",
+"6"
+]
+},
+"22": {
+"n": 22,
+"u": "1",
+"q": "Which of the following layer isn’t present in the TCP/IP model but is included in the OSI model?",
+"a": "B",
+"m": "1",
+"o": [
+"Network Layer",
+"Session Layer",
+"Application Layer",
+"Transport Layer"
+]
+},
+"23": {
+"n": 23,
+"u": "1",
+"q": "What is the length of the IPv4 address?",
+"a": "C",
+"m": "1",
+"o": [
+"4 Bits",
+"6 Bits",
+"32 Bits",
+"16 Bits"
+]
+},
+"24": {
+"n": 24,
+"u": "1",
+"q": "Identify the device used to boost up a weak signal.",
+"a": "B",
+"m": "1",
+"o": [
+"Modem",
+"Repeater",
+"Switch",
+"Router"
+]
+},
+"25": {
+"n": 25,
+"u": "1",
+"q": "What is the length of the IPv6 address?",
+"a": "A",
+"m": "1",
+"o": [
+"16 Byte",
+"12 Byte",
+"18 Byte",
+"10 Byte"
+]
+},
+"26": {
+"n": 26,
+"u": "1",
+"q": "MAC address is of _____ and stored in _____",
+"a": "A",
+"m": "1",
+"o": [
+"48 bits, NIC",
+"48 bits, windows",
+"48 bytes, Linux",
+"48 bytes, NIC"
+]
+},
+"27": {
+"n": 27,
+"u": "1",
+"q": "_____ _______ What is the propagation time if the distance between the two points is 12000 km? Assume the propagation speed to be 2.4X108 m/s in cable.",
+"a": "50 ms",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"28": {
+"n": 28,
+"u": "1",
+"q": "What is the Transmission time for a 2.5KB message if the bandwidth of the network is 1 Gbps?",
+"a": "0.02 ms",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"29": {
+"n": 29,
+"u": "1",
+"q": "How long does it take a packet of length 1,000 bytes to propagate over a link of distance 2,500 km, propagation speed 2.5 · 108 m/s, and transmission rate 2 Mbps?",
+"a": "14 ms",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"30": {
+"n": 30,
+"u": "1",
+"q": "Suppose Host A wants to send a large file to Host B. The path from Host A to Host B has three links, of rates R1 = 500 kbps, R2 = 2 Mbps, and R3 = 1 Mbps. A) Assuming no other traffic in the network, what is the throughput for the file transfer? B) Suppose the file is 4 million bytes. Dividing the file size by the throughput, roughly how long will it take to transfer the file to Host B? C) Repeat (a) and (b), but now with R2 reduced to 100 kbps.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"31": {
+"n": 31,
+"u": "1",
+"q": "Suppose Device A wants to send a large file to Device B. The path from Device A to Device B has three links, of rates R1 = 700 kbps, R2 = 5 Mbps, and R3 = 1 Mbps. A) Assuming no other traffic in the network, what is the throughput for the file transfer? B) Suppose the file is 14 million bytes. Dividing the file size by the throughput, roughly how long will it take to transfer the file to Device B? C) Repeat (a) and (b), but now with R2 reduced to 100 kbps",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"32": {
+"n": 32,
+"u": "1",
+"q": "We wish to send a message of size 150,000 bytes over the network. There are four hops, each of length 20km and running at 100Mb/s. Before sending we split the message into 1500 byte packets. What is the end-to-end delay of the message?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"33": {
+"n": 33,
+"u": "1",
+"q": "Two hosts are connected via a packet switch with 10^7 bits per second links. Each link has a propagation delay of 20 micro-seconds. The switch begins forwarding a packet 35 microseconds after it receives the same. If 10000 bits of data are to be transmitted between the two hosts using a packet size of 5000 bits,what is the time elapsed between the transmission of the first bit of data and the reception of the last bit of the data in microseconds?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"34": {
+"n": 34,
+"u": "1",
+"q": "Two hosts are connected via a packet switch with 10^7 bits per second links. Each link has a propagation delay of 50 micro-seconds. The switch begins forwarding a packet 45 microseconds after it receives the same. If 3000 bits of data are to be transmitted between the two hosts, what is the time elapsed between the transmission of the first bit of data and the reception of the last bit of the data in microseconds?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"35": {
+"n": 35,
+"u": "1",
+"q": "Suppose Five devices A,B,C,D and E are connected in mesh topology. A wants to send data to D via C. how much time it would be required if A is sending 4000 bytes packet and length of each link is 1000 km and propagation speed 2.5*10^8 m/s, and transmission rate 4 Mbps? Consider the processing and queing time faced by C is zero.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"36": {
+"n": 36,
+"u": "1",
+"q": "Suppose Five devices D1, D2, D3, D4 and D5 are connected in a mesh topology. D1 wants to send the data to D5 via D2 and then D4. how much time would it be required in milliseconds, if D1 is sending 4000 bytes packet and length of each link is 10000 km and propagation speed 2.5*10^8 m/s, and transmission rate 2 Mbps?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"37": {
+"n": 37,
+"u": "1",
+"q": "Suppose Host A wants to send a large file of 40,000 bytes to Host B. The path from Host A to Host B has three links , of rates R1 = 500 kbps, R2 = 1 Mbps, and R3 = 2 Mbps. A) Assuming no other traffic in the network, what is the throughput for the file transfer? B) Suppose A and B are connected to each other via Link R2. Now A wants to send packets of 10,000 bytes one by one to send entire file. when B receives all the packets it sends acknowledgement of 20bytes to A. Find total delay. Propogation delay is 20ms for each link.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"38": {
+"n": 38,
+"u": "1",
+"q": "Consider a source computer (S) transmitting a file of size 10^6 bits to a destination computer (D) over a network of two routers (R1 and R2) and three links (L1, L2, and L3). L1 connects S to R1; L2 connects R1 to R2; and L3 connects R2 to D. Let each link be of length 1000 km. Assume signals travel over each link at a speed of 2 x 10^8 meters per second. Assume that the link bandwidth on each link is 100 Kbps. Let the file be broken down into 1000 packets each of size 1000 bits. Find the total sum of transmission and propagation delays in transmitting the file from S to D in milliseconds.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"39": {
+"n": 39,
+"u": "1",
+"q": "We wish to send a message of size 150,0000 bytes over the network. There are four hops, each of length 20km and running at 100Mb/s. Before sending we split the message into 1500 byte packets. What is the end-to-end delay of the message? Take speed of signal as 2x10^8 m/s.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"40": {
+"n": 40,
+"u": "1",
+"q": "A data packet is sent over a network link of length 3000 km. The signal propagates at 2 × 10⁸ meters per second. Calculate the propagation delay",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"41": {
+"n": 41,
+"u": "1",
+"q": "A 10 MB file needs to be transmitted over a network link with a transmission rate of 100 Mbps. Calculate the transmission delay for sending the entire file.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"42": {
+"n": 42,
+"u": "1",
+"q": "A packet travels through three network links, each 500 km long, with a propagation speed of 2.5 × 10⁸ m/s. If each link has a transmission rate of 50 Mbps and the packet size is 1 MB, calculate the total end-to-end delay (considering only transmission and propagation delays).",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"43": {
+"n": 43,
+"u": "1",
+"q": "A packet travels through four network nodes, where each node introduces a processing delay of 5 ms. The packet is sent over a link with a transmission rate of 10 Mbps and a propagation speed of 3 × 10⁸ m/s. The link length is 1000 km, and the packet size is 2 MB. Calculate the total delay, including propagation, transmission, and processing delays",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"44": {
+"n": 44,
+"u": "1",
+"q": "A packet travels through three network links, each 5000 km long, with a propagation speed of 2.5 x 10^8 m/s. Each link has a transmission rate of 50 Mbps, and the packet size is 10 MB. Additionally, each network node introduces a processing delay of 20 ms and a queuing delay of 5 ms. Calculate the total end-to-end delay in seconds, considering transmission, propagation, processing, and queuing delays.",
+"a": "",
+"m": "",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"45": {
+"n": 45,
+"u": "1",
+"q": "A network link is 2500 km long, and the signal propagation speed is 2 × 10⁸ m/s. If the link has a bandwidth of 1 Gbps, calculate: The propagation delay",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"46": {
+"n": 46,
+"u": "1",
+"q": "A network initially has a propagation delay of 20 ms for a link of 6000 km. If the link distance is increased to 9000 km with the same propagation speed, calculate the new propagation delay",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"47": {
+"n": 47,
+"u": "1",
+"q": "A data packet travels through a network with three different links: Link 1: 1000 km, transmission rate of 10 Mbps, propagation speed of 2 × 10⁸ m/s Link 2: 2000 km, transmission rate of 50 Mbps, propagation speed of 2.5 × 10⁸ m/s Link 3: 1500 km, transmission rate of 20 Mbps, propagation speed of 2 × 10⁸ m/s If the packet size is 500 KB, calculate the total delay across all three links, considering both propagation and transmission delays",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"48": {
+"n": 48,
+"u": "1",
+"q": "A 5 MB file is segmented into packets of 1 KB each and transmitted over a network link with a transmission rate of 5 Mbps. Calculate the transmission delay for each packet and the total transmission delay to send the entire file",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"49": {
+"n": 49,
+"u": "1",
+"q": "A 500 KB file is sent over a 100 km link. The link has a transmission rate of 5 Mbps and a propagation speed of 2 × 10⁸ m/s. Calculate the total delay (transmission + propagation delay).",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"50": {
+"n": 50,
+"u": "1",
+"q": "A video streaming server sends packets through a network with four consecutive links, each with its own characteristics: Link 1: 800 km, 20 Mbps transmission rate, 2 × 10⁸ m/s propagation speed Link 2: 1000 km, 30 Mbps transmission rate, 2.5 × 10⁸ m/s propagation speed Link 3: 600 km, 15 Mbps transmission rate, 2 × 10⁸ m/s propagation speed Link 4: 1200 km, 40 Mbps transmission rate, 2.5 × 10⁸ m/s propagation speed If the video packet size is 2 MB, calculate the total delay across all links, considering both propagation and transmission delays.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"51": {
+"n": 51,
+"u": "1",
+"q": "A file of 8 MB is divided into packets of 512 KB each. If the transmission rate is 10 Mbps, calculate the total transmission time for sending all packets",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"52": {
+"n": 52,
+"u": "1",
+"q": "A data packet is sent over a fiber optic link of 2500 km with a propagation speed of 2 × 10⁸ m/s. Calculate the propagation delay.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"53": {
+"n": 53,
+"u": "1",
+"q": "A signal travels through a copper wire over a distance of 300 meters with a propagation speed of 2 × 10⁸ m/s. Calculate the propagation delay.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"54": {
+"n": 54,
+"u": "1",
+"q": "A data packet is sent over a network link of length 6500 km. The signal propagates at 2 × 10⁸ meters per second. Calculate the propagation delay.",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"55": {
+"n": 55,
+"u": "1",
+"q": "List and describe the different types of networks (LAN, WAN, PAN, etc.). Provide examples of where each type might be used",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"56": {
+"n": 56,
+"u": "1",
+"q": "Explain the purpose of layered architecture in network design",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"57": {
+"n": 57,
+"u": "1",
+"q": "Write a short note on OSI Layer and its function",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"58": {
+"n": 58,
+"u": "1",
+"q": "Explain TCP/IP Layer",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"59": {
+"n": 59,
+"u": "1",
+"q": "Explain the functions of various network devices with neat diagram",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"60": {
+"n": 60,
+"u": "1",
+"q": "Compare Switch and Router",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"61": {
+"n": 61,
+"u": "1",
+"q": "Enlist function of Physical Layer",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"62": {
+"n": 62,
+"u": "1",
+"q": "Enlist function of Data link Layer",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"63": {
+"n": 63,
+"u": "1",
+"q": "Enlist function of Network Layer",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"64": {
+"n": 64,
+"u": "1",
+"q": "Enlist function of Transport Layer and Session Layer",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"65": {
+"n": 65,
+"u": "1",
+"q": "Enlist function of Application Layer and Presentation Layer",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"66": {
+"n": 66,
+"u": "1",
+"q": "Define Computer Network and its Components",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"67": {
+"n": 67,
+"u": "2",
+"q": "Which of the following represents the fastest data transmission speed?",
+"a": "A",
+"m": "1",
+"o": [
+"Gbps",
+"Kbps",
+"Bps",
+"Bandwidth"
+]
+},
+"68": {
+"n": 68,
+"u": "2",
+"q": "In a _____ connection, three or more devices share a link.",
+"a": "B",
+"m": "1",
+"o": [
+"point to point",
+"multipoint",
+"(a) and (b)",
+"None of the above."
+]
+},
+"69": {
+"n": 69,
+"u": "2",
+"q": "_______ Which of the following transmission directions listed is not a legitimate channel?",
+"a": "D",
+"m": "1",
+"o": [
+"Simplex",
+"Half Duplex",
+"Full Duplex",
+"Double Duplex"
+]
+},
+"70": {
+"n": 70,
+"u": "2",
+"q": "A _____ is a set of rules that governs data communication",
+"a": "C",
+"m": "1",
+"o": [
+"forum",
+"Standards",
+"Protocol",
+"None of the above."
+]
+},
+"71": {
+"n": 71,
+"u": "2",
+"q": "The method of communication in which transction take place in both directions, but only in one direction at a time,is called?",
+"a": "A",
+"m": "1",
+"o": [
+"Half Duplex",
+"Simplex",
+"Full Duplex",
+"Double Duplex"
+]
+},
+"72": {
+"n": 72,
+"u": "2",
+"q": "Network components are connected to the same cable in the _____ topology.",
+"a": "B",
+"m": "1",
+"o": [
+"MESH",
+"BUS",
+"STAR",
+"RING"
+]
+},
+"73": {
+"n": 73,
+"u": "2",
+"q": "Geometric arrangement of devices on the network is called _____",
+"a": "B",
+"m": "1",
+"o": [
+"Protocols",
+"Topology",
+"Trailer",
+"Lan"
+]
+},
+"74": {
+"n": 74,
+"u": "2",
+"q": "_______ Which network topology requires a central controller or hub?",
+"a": "C",
+"m": "1",
+"o": [
+"MESH",
+"BUS",
+"STAR",
+"RING"
+]
+},
+"75": {
+"n": 75,
+"u": "2",
+"q": "topology requires a multipoint connection. _____",
+"a": "B",
+"m": "1",
+"o": [
+"MESH",
+"BUS",
+"STAR",
+"RING"
+]
+},
+"76": {
+"n": 76,
+"u": "2",
+"q": "_______ Which topology has the highest reliability?",
+"a": "A",
+"m": "1",
+"o": [
+"MESH",
+"BUS",
+"STAR",
+"RING"
+]
+},
+"77": {
+"n": 77,
+"u": "2",
+"q": "Frequency of failure and network recovery time after a failure are measures of the _____ of a network.",
+"a": "A",
+"m": "1",
+"o": [
+"Reliability",
+"Performance",
+"Security",
+"feasibility"
+]
+},
+"78": {
+"n": 78,
+"u": "2",
+"q": "_______ The number of cables required for mesh topology is?",
+"a": "D",
+"m": "1",
+"o": [
+"n",
+"n-1",
+"one backbone",
+"n(n-1)/2"
+]
+},
+"79": {
+"n": 79,
+"u": "2",
+"q": "Suppose we want to create a network of 99 devices where there is a dedicated link between each and every device, then find how many links would be required?",
+"a": "A",
+"m": "1",
+"o": [
+"4851",
+"4951",
+"5858",
+"9999"
+]
+},
+"80": {
+"n": 80,
+"u": "2",
+"q": "What is the number of cable required for a bus topology?",
+"a": "D",
+"m": "1",
+"o": [
+"n",
+"n-1",
+"n(n-1)/2",
+"one backbone and n drop lines"
+]
+},
+"81": {
+"n": 81,
+"u": "2",
+"q": "A topology that is responsible for describing the geometric arrangement of components that make up the LAN.",
+"a": "C",
+"m": "1",
+"o": [
+"complex",
+"logical",
+"physical",
+"incremental"
+]
+},
+"82": {
+"n": 82,
+"u": "2",
+"q": "Signals with a frequency below 2MHz use _____ propagation.",
+"a": "A",
+"m": "1",
+"o": [
+"ground",
+"sky",
+"line of sight",
+"none of above"
+]
+},
+"83": {
+"n": 83,
+"u": "2",
+"q": "A parabolic dish antenna is a(n) _____ antenna",
+"a": "B",
+"m": "1",
+"o": [
+"omnidirectional",
+"unidirectional",
+"bidirectional",
+"horn"
+]
+},
+"84": {
+"n": 84,
+"u": "2",
+"q": "cable consists of two insulated copper wires twisted together. _____",
+"a": "C",
+"m": "1",
+"o": [
+"coaxial",
+"Fiber-optic",
+"Twisted-pair",
+"None of the above"
+]
+},
+"85": {
+"n": 85,
+"u": "2",
+"q": "A(n) _____ medium provides a physcial conduit from one device to another.",
+"a": "A",
+"m": "1",
+"o": [
+"guided",
+"unguided",
+"either(a) or (b)",
+"None of the above"
+]
+},
+"86": {
+"n": 86,
+"u": "2",
+"q": "_______ which cable consists of a central conductor and a shiled?",
+"a": "A",
+"m": "1",
+"o": [
+"coaxial",
+"Fiber-optic",
+"Twisted-pair",
+"None of the above"
+]
+},
+"87": {
+"n": 87,
+"u": "2",
+"q": "cables carry data signals in the form of light. _____",
+"a": "B",
+"m": "1",
+"o": [
+"coaxial",
+"Fiber-optic",
+"Twisted-pair",
+"None of the above"
+]
+},
+"88": {
+"n": 88,
+"u": "2",
+"q": "Radio waves are _____",
+"a": "A",
+"m": "1",
+"o": [
+"omnidirectional",
+"unidirectional",
+"bidirectional",
+"both (a) & (b)"
+]
+},
+"89": {
+"n": 89,
+"u": "2",
+"q": "The physical layer translates logical communication requests from the _____ into hardware specific operations",
+"a": "A",
+"m": "1",
+"o": [
+"Datalink",
+"network",
+"transport",
+"application"
+]
+},
+"90": {
+"n": 90,
+"u": "2",
+"q": "In a fiber optics, the signal is _____ waves.",
+"a": "A",
+"m": "1",
+"o": [
+"light",
+"radio",
+"Infrared",
+"very low- frequency"
+]
+},
+"91": {
+"n": 91,
+"u": "2",
+"q": "The inner core of an optical fiber is _____ in composition",
+"a": "C",
+"m": "1",
+"o": [
+"copper",
+"bimetalic",
+"glass or plastic",
+"liquid"
+]
+},
+"92": {
+"n": 92,
+"u": "2",
+"q": "_______ Which transmisstion media has the highest transmisstion speed in a network?",
+"a": "D",
+"m": "1",
+"o": [
+"coaxial",
+"electric cable",
+"Twisted-pair",
+"optical fiber"
+]
+},
+"93": {
+"n": 93,
+"u": "2",
+"q": "Which of the following is not a transmisstion medium?",
+"a": "C",
+"m": "1",
+"o": [
+"Telephone lines",
+"Coaxial cables",
+"modem",
+"microwave systems"
+]
+},
+"94": {
+"n": 94,
+"u": "2",
+"q": "Which of the following is an advantage to using fiber optic data transmisstion?",
+"a": "D",
+"m": "1",
+"o": [
+"Resistance to data theft",
+"fast data transmisstion rate",
+"low noice level",
+"All of above"
+]
+},
+"95": {
+"n": 95,
+"u": "2",
+"q": "Which of the following communication lines is best suited to interactive processing application?",
+"a": "B",
+"m": "1",
+"o": [
+"narrow band channel",
+"Full duplex lines",
+"simplex lines",
+"Mixed Band channel"
+]
+},
+"96": {
+"n": 96,
+"u": "2",
+"q": "Guided media also known as _____",
+"a": "A",
+"m": "1",
+"o": [
+"bound media",
+"unguided media",
+"unbound media",
+"None of the above."
+]
+},
+"97": {
+"n": 97,
+"u": "2",
+"q": "How many forms in twisted pair cable?",
+"a": "C",
+"m": "1",
+"o": [
+"1",
+"4",
+"2",
+"3"
+]
+},
+"98": {
+"n": 98,
+"u": "2",
+"q": "Which of the following cable doesn’t come into guided media?",
+"a": "D",
+"m": "1",
+"o": [
+"coaxial",
+"Fiber-optic",
+"Twisted-pair",
+"microwave"
+]
+},
+"99": {
+"n": 99,
+"u": "2",
+"q": "which of the following are coaxial cable layers?",
+"a": "D",
+"m": "1",
+"o": [
+"thinnet",
+"thicknet",
+"copper",
+"A and B both"
+]
+},
+"100": {
+"n": 100,
+"u": "2",
+"q": "Which of the following connectors dosen’t come into coaxial cable connectors?",
+"a": "B",
+"m": "1",
+"o": [
+"barrel",
+"UTP",
+"BNC",
+"T-connectors"
+]
+},
+"101": {
+"n": 101,
+"u": "2",
+"q": "What is the condition for total internal reflection ?",
+"a": "A",
+"m": "1",
+"o": [
+"incidence angle is greater than critical angle",
+"incidence angle is less than critical angle",
+"incidence angle and critical angle equal",
+"incidence angle is not related to critical angle"
+]
+},
+"102": {
+"n": 102,
+"u": "2",
+"q": "Which of the following tasks is performed by the Physical Layer",
+"a": "C",
+"m": "1",
+"o": [
+"Logical addressing",
+"Routing of packets",
+"Transmission of raw bits over a communication channel",
+"Error detection and correction"
+]
+},
+"103": {
+"n": 103,
+"u": "2",
+"q": "Which of the following transmission media is least affected by electromagnetic interference (EMI)?",
+"a": "B",
+"m": "1",
+"o": [
+"Coaxial cable",
+"Fiber optic cable",
+"Twisted pair cable",
+"Shielded twisted pair cable"
+]
+},
+"104": {
+"n": 104,
+"u": "2",
+"q": "Which of the following statements about microwave transmission is true?",
+"a": "D",
+"m": "1",
+"o": [
+"Microwaves are used only for wired communication",
+"Microwaves have frequencies below 1 MHz",
+"Microwaves can easily pass through obstacles",
+"Microwaves require line-of-sight propagation"
+]
+},
+"105": {
+"n": 105,
+"u": "2",
+"q": "In which network topology does each device have a dedicated point-to-point link to every other device?",
+"a": "A",
+"m": "1",
+"o": [
+"MESH",
+"BUS",
+"STAR",
+"RING"
+]
+},
+"106": {
+"n": 106,
+"u": "2",
+"q": "In a ring topology, data travels in:",
+"a": "B",
+"m": "1",
+"o": [
+"Multiple paths simultaneously",
+"One direction or sometimes two directions around the ring",
+"Random directions",
+"Star-shaped pattern"
+]
+},
+"107": {
+"n": 107,
+"u": "2",
+"q": "Define Topology.What are the common network topologies?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"108": {
+"n": 108,
+"u": "2",
+"q": "Explain various topology and provide examples of where each might be useful.",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"109": {
+"n": 109,
+"u": "2",
+"q": "Describe the different types of transmission media used in networking",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"110": {
+"n": 110,
+"u": "2",
+"q": "What are the primary functions of the Physical layer?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"111": {
+"n": 111,
+"u": "2",
+"q": "Assume 6 devices are arranged in a mesh topology. How many cables are needed? How many ports are needed for each device?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"112": {
+"n": 112,
+"u": "2",
+"q": "Discuss the mode for propagating light along optical channels",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"113": {
+"n": 113,
+"u": "2",
+"q": "How are the guided media differing from unguided transmission media?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"114": {
+"n": 114,
+"u": "2",
+"q": "Write a short note on Co-axial cable",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"115": {
+"n": 115,
+"u": "2",
+"q": "Write a short note on Fiber cable",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"116": {
+"n": 116,
+"u": "2",
+"q": "Write a short note on radio communication",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"117": {
+"n": 117,
+"u": "3",
+"q": "Which of the following tasks is not done by data link layer?",
+"a": "D",
+"m": "1",
+"o": [
+"framing",
+"error control",
+"flow control",
+"channel coding"
+]
+},
+"118": {
+"n": 118,
+"u": "3",
+"q": "When 2 or more bits in a data unit has been changed during the transmission, the error is called _____",
+"a": "B",
+"m": "1",
+"o": [
+"random error",
+"burst error",
+"inverted error",
+"double error"
+]
+},
+"119": {
+"n": 119,
+"u": "3",
+"q": "which of the following is not valid MAC address?",
+"a": "D",
+"m": "1",
+"o": [
+"3A: 12: 34: B2: 11: 41",
+"3A: 12: 3E: B2: 11: 41",
+"3A: 12: 34: B2: 11: 4F",
+"3A: 12: 34: B2: 1G: 41"
+]
+},
+"120": {
+"n": 120,
+"u": "3",
+"q": "Which MAC address is Broadcast MAC Address?",
+"a": "D",
+"m": "1",
+"o": [
+"AA: BB :CC: 12: 14: 15",
+"12: 23: 34: 45: 56:67",
+"AA: BB: CC: DD: EE: FF",
+"FF: FF: FF: FF: FF: FF"
+]
+},
+"121": {
+"n": 121,
+"u": "3",
+"q": "Which method is used for error detection as well as error correction?",
+"a": "C",
+"m": "1",
+"o": [
+"LRC",
+"VRC",
+"Hamming code",
+"CRC"
+]
+},
+"122": {
+"n": 122,
+"u": "3",
+"q": "In CRC the value of the key / Divisor is known by?",
+"a": "C",
+"m": "1",
+"o": [
+"Sender",
+"Receiver",
+"Both",
+"None"
+]
+},
+"123": {
+"n": 123,
+"u": "3",
+"q": "What is the size of receivers window for Go Back N ARQ?",
+"a": "B",
+"m": "1",
+"o": [
+"2",
+"1",
+"N",
+"None"
+]
+},
+"124": {
+"n": 124,
+"u": "3",
+"q": "The final code after encoding data bits 1101 into 7-bit even parity Hamming Code is",
+"a": "A",
+"m": "1",
+"o": [
+"1010101",
+"1111111",
+"1000000",
+"1100110"
+]
+},
+"125": {
+"n": 125,
+"u": "3",
+"q": "In bit stuffing when zero is stuffed?",
+"a": "B",
+"m": "1",
+"o": [
+"After 4 ones",
+"After 5 ones",
+"After 3 Ones",
+"After 6 Ones"
+]
+},
+"126": {
+"n": 126,
+"u": "3",
+"q": "Which Framing method is more efficient ?",
+"a": "B",
+"m": "1",
+"o": [
+"Byte stuffing",
+"Bit stuffing",
+"Both",
+"None"
+]
+},
+"127": {
+"n": 127,
+"u": "3",
+"q": "In _____ error correction, the receiver asks the sender to send the data again.",
+"a": "A",
+"m": "1",
+"o": [
+"ARQ (Automatic Repeat Request)",
+"FEC (Forward Error Correction)",
+"Revert",
+"None"
+]
+},
+"128": {
+"n": 128,
+"u": "3",
+"q": "The divisor in a cyclic code is normally called the _____.",
+"a": "B",
+"m": "1",
+"o": [
+"Degree",
+"Generator",
+"Redundency",
+"None"
+]
+},
+"129": {
+"n": 129,
+"u": "3",
+"q": "What is the minimal Hamming distance between any two correct codewords?",
+"a": "C",
+"m": "1",
+"o": [
+"1",
+"2",
+"3",
+"4"
+]
+},
+"130": {
+"n": 130,
+"u": "3",
+"q": "We add r redundent bits to each block to make the length n = k + r. the resulting n-bit blocks are called ?",
+"a": "C",
+"m": "1",
+"o": [
+"Datawords",
+"Blockwords",
+"Codewords",
+"None"
+]
+},
+"131": {
+"n": 131,
+"u": "3",
+"q": "What is the message length ‘k’ of a Hamming(7,4) code?",
+"a": "C",
+"m": "1",
+"o": [
+"2r-1",
+"2r-r+1",
+"2r-r-1",
+"2r+1-r"
+]
+},
+"132": {
+"n": 132,
+"u": "3",
+"q": "The _____ of errors is more difficult than the _____.",
+"a": "A",
+"m": "1",
+"o": [
+"Correction; detection",
+"detection;correcti on",
+"creation;correcti on",
+"creation;detection"
+]
+},
+"133": {
+"n": 133,
+"u": "3",
+"q": "Consider the data unit to be transmitted as 1001000111110000, divided into 4-bit segments. What is the checksum for this data unit? Ensure to add the carry if any.",
+"a": "A",
+"m": "1",
+"o": [
+"0 1 0 1",
+"0 0 0 0",
+"0 0 1 1",
+"0 1 0 0"
+]
+},
+"134": {
+"n": 134,
+"u": "3",
+"q": "if you wanted to transmit 17 data bits, how many parity bits are sufficient in hamming code?",
+"a": "A",
+"m": "1",
+"o": [
+"5",
+"4",
+"3",
+"2"
+]
+},
+"135": {
+"n": 135,
+"u": "3",
+"q": "What is the main advantage of CRC over VRC and LRC?",
+"a": "A",
+"m": "1",
+"o": [
+"Higher error detection capability",
+"Ability to detect and correct errors",
+"Simplicity in implementation",
+"Lower computational overhead"
+]
+},
+"136": {
+"n": 136,
+"u": "3",
+"q": "The stop and wait flow control method is the same as the sliding window method with a window size of _____.",
+"a": "1",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"137": {
+"n": 137,
+"u": "3",
+"q": "What will be the number of ACK packet sent by receiver if it recives 8th number packet.",
+"a": "9",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"138": {
+"n": 138,
+"u": "3",
+"q": "What is the size of receivers window for GB9 protocol if senders window size is 9.",
+"a": "1",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"139": {
+"n": 139,
+"u": "3",
+"q": "Sender has sent data 0100010001000011 but receiver has received 0101110101000011. find length of burst error.",
+"a": "5 bits",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"140": {
+"n": 140,
+"u": "3",
+"q": "Convert the polynomial x5 + x + 1 into binary.",
+"a": "100011",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"141": {
+"n": 141,
+"u": "3",
+"q": "In CRC method the data sent by sender is 100100001. the size of original data is 6bits. Find size of the key.",
+"a": "4 bits",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"142": {
+"n": 142,
+"u": "3",
+"q": "In Stop and wait protocol every 4th packet is lost and we need to send total 10 packets so how many transmission it took to send all the packets?",
+"a": "13",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"143": {
+"n": 143,
+"u": "3",
+"q": "What is value of the checksum if the data to be sent 0101 0011 1000 is divided into three parts.",
+"a": "1110",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"144": {
+"n": 144,
+"u": "3",
+"q": "1. Given the data to be transmitted as 0100110 in Hamming code, Write the steps to find the 11-bit codeword that is sent to the receiver. Assume even parity. 2. If the codeword received is 01010010001, just mention the position of error, if any.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"145": {
+"n": 145,
+"u": "3",
+"q": "Find value of LRC if the data to be sent is 11100111 11011101 00111001 10101001. consider size of one block 8 bits.",
+"a": "1010101 0",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"146": {
+"n": 146,
+"u": "3",
+"q": "Consider the following message M=1010001101. 1) The cyclic redundancy check for this message using the divisor polynomial x^5 + x^4 + x^2 + 1 is? 2) If the receiver receives 101000110101100, did it get the error free codeword? Just state Yes or No.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"147": {
+"n": 147,
+"u": "3",
+"q": "What is value of the checksum if the data to be sent is 10011001111000100010010010000100. Consider size of each segment is 8bits.",
+"a": "11011010",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"148": {
+"n": 148,
+"u": "3",
+"q": "What is RTT time in Stop and Wait protocol if Propagation delay is 3.7 msec",
+"a": "7.4 msec",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"149": {
+"n": 149,
+"u": "3",
+"q": "In hamming code method suppose the size of the data bits is 7 then find the number of the redundent bits.",
+"a": "4bits",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"150": {
+"n": 150,
+"u": "3",
+"q": "The received data in even parity hamming code method is 10010100101. Identify the position of the error. Correct the data.",
+"a": "7th bit has error",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"151": {
+"n": 151,
+"u": "3",
+"q": "How Many ESC will be discarded if the received data has 4 ESC.",
+"a": "2ESC",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"152": {
+"n": 152,
+"u": "3",
+"q": "In stop and wait protocol what a sender will do if ack sent by receiver is lost?",
+"a": "",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"153": {
+"n": 153,
+"u": "3",
+"q": "A bit stream 10011101 is transmitted using the standard CRC method. The generator polynomial is x3+1. What is the actual bit string transmitted?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"154": {
+"n": 154,
+"u": "3",
+"q": "Code word received at the receiver side 100100001 and key is 1101 find if it has any error or not.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"155": {
+"n": 155,
+"u": "3",
+"q": "In Byte stuffing how many ESC will be added if the data to be sent has ESC like data present?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"156": {
+"n": 156,
+"u": "3",
+"q": "A bit stream 1101011011 is transmitted using the standard CRC method. The generator polynomial is x4+x+1. What is the actual bit string transmitted?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"157": {
+"n": 157,
+"u": "3",
+"q": "Code word received at the receiver side - 100000001 and key is 1101 find if it has any error.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"158": {
+"n": 158,
+"u": "3",
+"q": "How many number of MAC addresses are available?",
+"a": "",
+"m": "1",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"159": {
+"n": 159,
+"u": "3",
+"q": "Encode the 4-bit data 1011 using (7,4) Hamming code. Show the positions of the parity bits and the final encoded message.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"160": {
+"n": 160,
+"u": "3",
+"q": "A received Hamming codeword is 1010111. Identify whether there is an error in the codeword, and if so, determine the position of the error.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"161": {
+"n": 161,
+"u": "3",
+"q": "Given a 7-bit Hamming codeword 1101101, calculate the values of the parity bits (P1, P2, P4, P8) and determine whether there are any errors in the codeword.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"162": {
+"n": 162,
+"u": "3",
+"q": "In GB4, if every 6th packet being transmitted is lost and if we have to spend 10 packets then how many transmissions are required",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"163": {
+"n": 163,
+"u": "4",
+"q": "Why station need to wait random amount of time for re-transmission of the frame after collision in pure aloha?",
+"a": "B",
+"m": "1",
+"o": [
+"To prevent other stations",
+"To avoid more collisions",
+"To detect other collisions",
+"To get acknowledgment from the receiver"
+]
+},
+"164": {
+"n": 164,
+"u": "4",
+"q": "Which strategy is used by the pure aloha to prevent the congestion caused by continuous re-transmitted frames?",
+"a": "C",
+"m": "1",
+"o": [
+"Aborts the re- transmission after 5 attempts",
+"A station is allowed to re-transmit for 2 times",
+"Restriction on the attempts for re- transmission",
+"Re-transmission has no restriction"
+]
+},
+"165": {
+"n": 165,
+"u": "4",
+"q": "What is the vulnerable time of the pure aloha for fixed length of frames (T=frame time)?",
+"a": "A",
+"m": "1",
+"o": [
+"2*T",
+"3*T",
+"1/2*T",
+"5*T"
+]
+},
+"166": {
+"n": 166,
+"u": "4",
+"q": "The throughput for pure ALOHA is max when G= .",
+"a": "A",
+"m": "1",
+"o": [
+"0.5",
+"1",
+"2",
+"none of above"
+]
+},
+"167": {
+"n": 167,
+"u": "4",
+"q": "Consider a 800 Kbps link. What is the maximum bandwidth (in Kbps) when pure aloha is used ?",
+"a": "B",
+"m": "1",
+"o": [
+"294.4 Kbps",
+"147.2 Kbps",
+"194.4 Kbps",
+"247.2 Kbps"
+]
+},
+"168": {
+"n": 168,
+"u": "4",
+"q": "The throughput for Pure ALOHA is _____ .",
+"a": "C",
+"m": "1",
+"o": [
+"S = G × e−G",
+"S =2G × e−G",
+"S = G × e−2G",
+"none of above"
+]
+},
+"169": {
+"n": 169,
+"u": "4",
+"q": "Maximum throughput for pure ALOHA is _____ .",
+"a": "D",
+"m": "1",
+"o": [
+"S = G × e−G",
+"0.368",
+"S = G × e−2G",
+"0.184"
+]
+},
+"170": {
+"n": 170,
+"u": "4",
+"q": "The throughput for slotted ALOHA is max when G=",
+"a": "A",
+"m": "1",
+"o": [
+"1",
+"1.5",
+"0.5",
+"none of above"
+]
+},
+"171": {
+"n": 171,
+"u": "4",
+"q": "The throughput for slotted ALOHA is _____ .",
+"a": "A",
+"m": "1",
+"o": [
+"S = G × e−G",
+"S =2G × e−G",
+"S = G × e−2G",
+"none of above"
+]
+},
+"172": {
+"n": 172,
+"u": "4",
+"q": "Maximum throughput for slotted ALOHA is _____ .",
+"a": "D",
+"m": "1",
+"o": [
+"S = G × e−G",
+"0.184",
+"S = G × e−2G",
+"0.368"
+]
+},
+"173": {
+"n": 173,
+"u": "4",
+"q": "Consider a 800 Kbps link. What is the maximum bandwidth (in Kbps) when slotted aloha is used ?",
+"a": "B",
+"m": "1",
+"o": [
+"194.4 Kbps",
+"294.4 Kbps",
+"246.2 Kbps",
+"146.2 Kbps"
+]
+},
+"174": {
+"n": 174,
+"u": "4",
+"q": "Radio broadcast on a common frequency to transmit uses _____ protocol.",
+"a": "D",
+"m": "1",
+"o": [
+"Carrier Sense Multiple Access Protocols",
+"Collision-Free Protocols",
+"Limited-Contention Protocols",
+"ALOHA Protocol"
+]
+},
+"175": {
+"n": 175,
+"u": "4",
+"q": "is a medium access control protocol used for transmitting data via a shared network channel. _____",
+"a": "A",
+"m": "1",
+"o": [
+"ALOHA Protocol",
+"Framing",
+"TCP",
+"None of the above"
+]
+},
+"176": {
+"n": 176,
+"u": "4",
+"q": "What is the full form of CSMA?",
+"a": "D",
+"m": "1",
+"o": [
+"Carrier Signal Multiple Access",
+"Collision Sense Multiple Access",
+"Channel Sense Multiple Access",
+"Carrier Sense Multiple Access"
+]
+},
+"177": {
+"n": 177,
+"u": "4",
+"q": "Which of this is not a CSMA access mode?",
+"a": "C",
+"m": "1",
+"o": [
+"1-Persistent",
+"P-Persistent",
+"A-Persistent",
+"Non-Persistent"
+]
+},
+"178": {
+"n": 178,
+"u": "4",
+"q": "The CSMA/CA prevents collisions by:",
+"a": "D",
+"m": "1",
+"o": [
+"Interframe Space (IFS)",
+"Contention Window",
+"Acknowledgement (ACK)",
+"all of above"
+]
+},
+"179": {
+"n": 179,
+"u": "4",
+"q": "What is next step after sending jamming signal in CSMA/CD?",
+"a": "B",
+"m": "1",
+"o": [
+"Wait for random time",
+"Increment k",
+"Wait for Tp",
+"all of above"
+]
+},
+"180": {
+"n": 180,
+"u": "4",
+"q": "What is next step after sending frame in CSMA/CA?",
+"a": "A",
+"m": "1",
+"o": [
+"Wait for timeout",
+"Increment k",
+"Wait for Tp",
+"all of above"
+]
+},
+"181": {
+"n": 181,
+"u": "4",
+"q": "In CSMA/CD, after the fifth collision, what is the probability that a node chooses K = 4?",
+"a": "A",
+"m": "1",
+"o": [
+"0.03125",
+"0.0625",
+"0.015625",
+"none of above"
+]
+},
+"182": {
+"n": 182,
+"u": "4",
+"q": "Consider building a CSMA/CD network running at 1 Gbps over a 1 km cable with no repeaters. The signal speed in the cable is 200000km/sec. What is the minimum frame size?",
+"a": "B",
+"m": "1",
+"o": [
+"1400 bytes",
+"1250 bytes",
+"1320 bytes",
+"1211 bytes"
+]
+},
+"183": {
+"n": 183,
+"u": "4",
+"q": "In CSMA/CA the IFS can also be used to define priority of station or frame.",
+"a": "B",
+"m": "1",
+"o": [
+"Contention Window",
+"Inter Frame Space",
+"Backoff Time",
+"Frame Type"
+]
+},
+"184": {
+"n": 184,
+"u": "4",
+"q": "For wireless network _____ is not possible",
+"a": "C",
+"m": "1",
+"o": [
+"static IP addressing",
+"cabling infrastructure",
+"collision detection",
+"dedicated bandwidth"
+]
+},
+"185": {
+"n": 185,
+"u": "4",
+"q": "CSMA/CD can be used in _____ network",
+"a": "B",
+"m": "1",
+"o": [
+"Wi-Fi",
+"Ethernet",
+"Bluetooth",
+"Zigbee"
+]
+},
+"186": {
+"n": 186,
+"u": "4",
+"q": "______________ What is start frame delimeter (SFD) in ethernet frame?",
+"a": "B",
+"m": "1",
+"o": [
+"10101010",
+"10101011",
+"00000000",
+"11111111"
+]
+},
+"187": {
+"n": 187,
+"u": "4",
+"q": "What IEEE standard is designated for Wi-Fi?",
+"a": "C",
+"m": "1",
+"o": [
+"IEEE 802.1",
+"IEEE 802.12",
+"IEEE 802.11",
+"IEEE 802.4"
+]
+},
+"188": {
+"n": 188,
+"u": "4",
+"q": "The maximum size of payload field in ethernet frame is _____",
+"a": "D",
+"m": "1",
+"o": [
+"1000 bytes",
+"1200 bytes",
+"1300 bytes",
+"1500 bytes"
+]
+},
+"189": {
+"n": 189,
+"u": "4",
+"q": "is a standard communications protocol embedded in software and hardware devices, intended for building a local area network. _____",
+"a": "A",
+"m": "1",
+"o": [
+"Ethernet",
+"Wi-Fi",
+"Bluetooth",
+"Sneaker net"
+]
+},
+"190": {
+"n": 190,
+"u": "4",
+"q": "What IEEE standard is designated for Ethernet?",
+"a": "C",
+"m": "1",
+"o": [
+"IEEE 802.1",
+"IEEE 802.2",
+"IEEE 802.3",
+"IEEE 802.4"
+]
+},
+"191": {
+"n": 191,
+"u": "4",
+"q": "What is IEEE 802.3 primarily concerned with?",
+"a": "B",
+"m": "1",
+"o": [
+"Wireless networking standards",
+"Wired Ethernet networking standards",
+"Bridging and switching technologies",
+"Network security protocols"
+]
+},
+"192": {
+"n": 192,
+"u": "4",
+"q": "Which of the following is an Ethernet standard ?",
+"a": "A",
+"m": "1",
+"o": [
+"10BASE-T",
+"10BASE-P",
+"10BASE-Q",
+"10BASE-R"
+]
+},
+"193": {
+"n": 193,
+"u": "4",
+"q": "Convert the polynomial x 5 + 2x + 1 into binary",
+"a": "D",
+"m": "1",
+"o": [
+"100001",
+"101011",
+"100011",
+"None of the Above"
+]
+},
+"194": {
+"n": 194,
+"u": "4",
+"q": "If Frame contains data like ESC, Flag and ESC then after adding escape character the frame would look like _____",
+"a": "B",
+"m": "1",
+"o": [
+"ESC,ESC,ESC,ESC ,ESC,ESC",
+"ESC,ESC,ESC,flag, ESC,ESC",
+"ESC,Flag,ESC,ESC ,ESC,ESC",
+"ESC,ESC,flag,ESC, ESC,ESC"
+]
+},
+"195": {
+"n": 195,
+"u": "4",
+"q": "_______ A bit-stuffing based framing protocol uses an 8-bit delimiter pattern of 01111110. If the output bit-string after stuffing is 011111100101, then the input bit-string is:",
+"a": "B",
+"m": "1",
+"o": [
+"111110100",
+"111110101",
+"111111101",
+"111111111"
+]
+},
+"196": {
+"n": 196,
+"u": "4",
+"q": "In CSMA/CD, after the sixth collision, how many distinct values can the random number R take?",
+"a": "D",
+"m": "1",
+"o": [
+"1",
+"4",
+"15",
+"64"
+]
+},
+"197": {
+"n": 197,
+"u": "4",
+"q": "In which layer of the OSI model does CSMA/CD operate?",
+"a": "A",
+"m": "1",
+"o": [
+"Data Link Layer",
+"Physical Layer",
+"Session Layer",
+"Presentation Layer"
+]
+},
+"198": {
+"n": 198,
+"u": "4",
+"q": "A pure ALOHA network transmits 200-bit frames on a shared channel of 200 kbps. What is the throughput if the system (all stations together) produces 1000 frames per second?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"199": {
+"n": 199,
+"u": "4",
+"q": "A pure ALOHA network transmits 200-bit frames on a shared channel of 200 kbps. What is the throughput if the system (all stations together) produces 500 frames per second?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"200": {
+"n": 200,
+"u": "4",
+"q": "A pure ALOHA network transmits 200-bit frames on a shared channel of 200 kbps. What is the throughput if the system (all stations together) produces 250 frames per second?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"201": {
+"n": 201,
+"u": "4",
+"q": "We have a pure ALOHA network with 100 stations. If Tfr=1μs, what is the number of frames each station can send to achieve the maximum efficiency.",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"202": {
+"n": 202,
+"u": "4",
+"q": "Consider a network using the pure ALOHA medium access control protocol, where each frame is of length 1000 bits. The channel transmission rate is 1 Mbps ( 10^6 bits per second). The aggregate number of transmissions across all the nodes (including new frame transmissions and retransmitted frames due to collisions) is modelled as a Poisson process with a rate of 1000 frames per second. Throughput is defined as the average number of frames successfully transmitted per second. The throughput of the network (rounded to the nearest integer) is _____",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"203": {
+"n": 203,
+"u": "4",
+"q": "______________ If the frame transmission time is 20 ms, how many frames can be generated by the system in 1 second if G=1? For both Pure and Slotted Aloha.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"204": {
+"n": 204,
+"u": "4",
+"q": "We have a slotted ALOHA network with 100 stations. If Tfr=1μs, what is the number of frames each station can send to achieve the maximum efficiency.",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"205": {
+"n": 205,
+"u": "4",
+"q": "A slotted ALOHA network transmits 200-bit frames using a shared channel with a 200-kbps bandwidth. Find the throughput if the system (all stations together) produces 1000 frames per second.",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"206": {
+"n": 206,
+"u": "4",
+"q": "A slotted ALOHA network transmits 200-bit frames using a shared channel with a 200-kbps bandwidth. Find the throughput if the system (all stations together) produces 500 frames per second.",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"207": {
+"n": 207,
+"u": "4",
+"q": "A slotted ALOHA network transmits 200-bit frames using a shared channel with a 200-kbps bandwidth. Find the throughput if the system (all stations together) produces 250 frames per second.",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"208": {
+"n": 208,
+"u": "4",
+"q": "The stations on a wireless ALOHA network are a maximum of 600 km apart. If we assume that signals propagate at 3 × 10^8 m/s, we find Tp = (600 × 10^5 ) / (3 × 10^8 ) = 2 ms. Now find the value of TB for K=1, K=2 and K=3",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"209": {
+"n": 209,
+"u": "4",
+"q": "A pure ALOHA network transmits 200-bit frames on a shared channel of 200 kbps. What is the requirement to make this frame collision-free?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"210": {
+"n": 210,
+"u": "4",
+"q": "A network using CSMA/CD has a bandwidth of 10 Mbps. If the maximum propagation time including the delays in the devices and ignoring the time needed to send a jamming signal is 25.6 μs, what is the minimum size of the frame?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"211": {
+"n": 211,
+"u": "4",
+"q": "In csma/cd, after the 3rd collision, what is the probability that the value of k that a node chooses is 2?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"212": {
+"n": 212,
+"u": "4",
+"q": "In CSMA/CD, after the 4th collision, what is the probability that a node chooses K=5? The result K=5 corresponds to a delay of how many seconds on Ethernet having Tfr = 0.125 microseconds?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"213": {
+"n": 213,
+"u": "4",
+"q": "In csma/cd, after the sixth collision, what is the probability that a node chooses k=10? the result k=10 corresponds to a delay of how many seconds on Ethernet having Tfr = 0.5 microseconds?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"214": {
+"n": 214,
+"u": "5",
+"q": "The network layer is concerned with _____ of data.",
+"a": "C",
+"m": "1",
+"o": [
+"bits",
+"frames",
+"packets",
+"bytes"
+]
+},
+"215": {
+"n": 215,
+"u": "5",
+"q": "__________ Which one of the following is not a function of network layer?",
+"a": "D",
+"m": "1",
+"o": [
+"routing",
+"inter-networking",
+"congestion control",
+"error control"
+]
+},
+"216": {
+"n": 216,
+"u": "5",
+"q": "A 4 byte IP address consists of ?",
+"a": "C",
+"m": "1",
+"o": [
+"only network address",
+"only host address",
+"network address & host address",
+"network address & MAC address"
+]
+},
+"217": {
+"n": 217,
+"u": "5",
+"q": "IP is _____ protocol.",
+"a": "A",
+"m": "1",
+"o": [
+"unreliable",
+"connection-oriented",
+"file transfer",
+"secure communication"
+]
+},
+"218": {
+"n": 218,
+"u": "5",
+"q": "A telephone network is an example of a _____ network",
+"a": "B",
+"m": "1",
+"o": [
+"Packet switched",
+"Circuit switched",
+"both of the mentioned",
+"Message switching"
+]
+},
+"219": {
+"n": 219,
+"u": "5",
+"q": "Which of the following assertions is FALSE about the Internet Protocol (IP) ?",
+"a": "D",
+"m": "1",
+"o": [
+"It is possible for a computer to have multiple IP addresses",
+"IP packets from the same source to the same destination can take different routes in the network",
+"IP ensures that a packet is discarded if it is unable to reach its destination within a given number of hops",
+"The packet source cannot set the route of an outgoing packets; the route is determined only by the routing tables in the routers on the way"
+]
+},
+"220": {
+"n": 220,
+"u": "5",
+"q": "Computer networks that provide only a connection service at the network layer are called _____ while computer networks that provide only a connectionless service at the network layer are called _____",
+"a": "C",
+"m": "1",
+"o": [
+"Broadcast, Multicast",
+"Peer-to-peer, Client- server",
+"Connection-oriente d, Connectionless",
+"None of the above"
+]
+},
+"221": {
+"n": 221,
+"u": "5",
+"q": "_____________ One of the header fields in an IP datagram is the Time to Live(TTL)field. Which of the following statements best explains the need for this field?",
+"a": "D",
+"m": "1",
+"o": [
+"It can be used to prioritize packets",
+"It can be used to reduce delays",
+"It can be used to optimize throughput",
+"It can be used to prevent packet looping"
+]
+},
+"222": {
+"n": 222,
+"u": "5",
+"q": "Which one of the following fields of an IP header is NOT modified by a typical IP router?",
+"a": "B",
+"m": "1",
+"o": [
+"Checksum",
+"Source Address",
+"TTL",
+"Length"
+]
+},
+"223": {
+"n": 223,
+"u": "5",
+"q": "An IPv4 packets has arrived with the first 8 bits as 01000010. Which of the following is correct?",
+"a": "D",
+"m": "1",
+"o": [
+"The number of hops this packet can travel is 2",
+"The total number of bytes in header is 16 bytes",
+"The upper layer protocol is ICMP",
+"The receiver rejects the packet"
+]
+},
+"224": {
+"n": 224,
+"u": "5",
+"q": "In an IPv4 packet, the value of HLEN is 1000 in binary. How many bytes of options are being carried by this packet?",
+"a": "B",
+"m": "1",
+"o": [
+"4 bytes",
+"12 bytes",
+"16 bytes",
+"8 bytes"
+]
+},
+"225": {
+"n": 225,
+"u": "5",
+"q": "In an IPv4 datagram, the M bit is 0, the value of HLEN is 10, the value of total length is 400 and the fragment offset value is 300. The position of the datagram, the sequence numbers of the first and the last bytes of the payload, respectively are",
+"a": "C",
+"m": "1",
+"o": [
+"Last fragment, 2400 and 2789",
+"First fragment, 2400 and 2759",
+"Last fragment, 2400 and 2759",
+"Middle fragment, 300 and 689"
+]
+},
+"226": {
+"n": 226,
+"u": "5",
+"q": "Which of the following fields in IPV4 datagram is not related to fragmentation?",
+"a": "A",
+"m": "1",
+"o": [
+"Type of service",
+"Fragment offset",
+"Flags",
+"Identification"
+]
+},
+"227": {
+"n": 227,
+"u": "5",
+"q": "Two computers C1 and C2 are configured as follows. C1 has IP address 203.197.2.53 and netmask 255.255.128.0. C2 has IP address 203.197.75.201 and netmask 255.255.192.0. which one of the following statements is true?",
+"a": "A",
+"m": "1",
+"o": [
+"C1 assumes C2 is on same network, but C2 assumes C1 is on a different network",
+"C1 and C2 both assume they are on the same network",
+"C2 assumes C1 is on same network, but C1 assumes C2 is on a different network",
+"C1 and C2 both assume they are on different networks."
+]
+},
+"228": {
+"n": 228,
+"u": "5",
+"q": "If C1 and C2 both assume they are on different networks, which of the following actions is necessary for them to communicate?",
+"a": "D",
+"m": "1",
+"o": [
+"Finding the IP address from the DNS",
+"Finding the IP address of the default gateway",
+"Finding the IP address that corresponds to a MAC address",
+"Finding the MAC address that corresponds to an IP address"
+]
+},
+"229": {
+"n": 229,
+"u": "5",
+"q": "In virtual circuit network each packet contains",
+"a": "B",
+"m": "1",
+"o": [
+"full source and destination address",
+"a short VC number",
+"both (a) and (b)",
+"none of the mentioned"
+]
+},
+"230": {
+"n": 230,
+"u": "5",
+"q": "What is the 32-bit binary equivalent of the IP address 223.1.3.27?",
+"a": "A",
+"m": "1",
+"o": [
+"11011111.00000001 .000 00011.00011011",
+"11011111.00000001 .00 000011.00011001",
+"11011111.00000001 .00 000011.00011111",
+"11011111.00000001 .00 000010.00011011"
+]
+},
+"231": {
+"n": 231,
+"u": "5",
+"q": "Which of the following is the broadcast address for a Class B network ID using the default subnetmask?",
+"a": "C",
+"m": "1",
+"o": [
+"172.16.10.255",
+"255.255.255.255",
+"172.16.255.255",
+"172.255.255.255"
+]
+},
+"232": {
+"n": 232,
+"u": "5",
+"q": "You have an IP address of 172.16.13.7 with a 255.255.255.128 subnet mask. What is your class of address, subnet address, and broadcast address?",
+"a": "B",
+"m": "1",
+"o": [
+"Class A, Subnet 172.16.13.0, Broadcast address 172.16.13.127",
+"Class B, Subnet 172.16.13.0, Broadcast address 172.16.13.127",
+"Class B, Subnet 172.16.13.0, Broadcast address 172.16.13.255",
+"Class B, Subnet 172.16.0.0, Broadcast address 172.16.255.255"
+]
+},
+"233": {
+"n": 233,
+"u": "5",
+"q": "If you wanted to have 12 subnets with a Class C network ID, which subnet mask would you use?",
+"a": "D",
+"m": "1",
+"o": [
+"255.255.255.252",
+"255.255.255.255",
+"255.255.255.248",
+"255.255.255.240"
+]
+},
+"234": {
+"n": 234,
+"u": "5",
+"q": "If you wanted to have 10 subnets with a Class C network ID, which subnet mask would you use?",
+"a": "D",
+"m": "1",
+"o": [
+"255.255.255.252",
+"255.255.255.255",
+"255.255.255.248",
+"255.255.255.240"
+]
+},
+"235": {
+"n": 235,
+"u": "5",
+"q": "Given the following IP address and network mask, what IS the broadcast address? IP : 160.168.30.100 Net Mask : 255.255.240.0",
+"a": "A",
+"m": "1",
+"o": [
+"160.168.31.255",
+"160.168.30.255",
+"160.168.24.03",
+"160.168.25.53"
+]
+},
+"236": {
+"n": 236,
+"u": "5",
+"q": "The forwarding table of a router is shown below.A packet addressed to a destination address 200.150.68.118 arrives at the router. It will be forwarded to the interface with ID _____.",
+"a": "C",
+"m": "1",
+"o": [
+"1",
+"2",
+"3",
+"4"
+]
+},
+"237": {
+"n": 237,
+"u": "5",
+"q": "Suppose datagrams are limited to 1,500 bytes (including header) between source Host A and destination Host B. Assuming a 20-byte IP header and a 20-byte TCP header, how many datagrams would be required to send an MP3 consisting of 4 million bytes.",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"238": {
+"n": 238,
+"u": "5",
+"q": "IP Packets on a certain network can carry a maximum of only 500 bytes in the data portion. An application using TCP/IP on a node on this network generates a TCP segment with 1,000 bytes in the data portion. How many IP packets are transmitted to carry this TCP segment, and what are their sizes (including the header)?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"239": {
+"n": 239,
+"u": "5",
+"q": "An IP datagram of size 1000 bytes arrives at a router. The router has to forward this packet on a link whose MTU (maximum transmission unit) is 100 bytes. Assume that the size of the IP header is 20 bytes. The number of fragments that the IP datagram will be divided into for transmission is?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"240": {
+"n": 240,
+"u": "5",
+"q": "Consider sending a 2400-byte datagram into a link that has an MTU of 700 bytes. Suppose the original datagram is stamped with the identification number 422. How many fragments are generated? What are the values in the various fields in the IP datagram(s) generated related to fragmentation?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"241": {
+"n": 241,
+"u": "5",
+"q": "An IP router with a Maximum Transmission Unit (MTU) of 200 bytes has received an IP packet of size 520 bytes with an IP header of length 20 bytes. The values of the relevant fields in the IP header.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"242": {
+"n": 242,
+"u": "5",
+"q": "Consider an IP packet with a length of 4,500 bytes that includes a 20-byte IPv4 header ans 40-byte TCP header. The packet is forwarded to an IPv4 router that supports a Maximum Transmission Unit (MTU) of 600 bytes. Assume that the length of the IP header in all the outgoing fragments of this packet is 20 bytes. Assume that the fragmentation offset value stored in the first fragment is 0. The fragmentation offset value stored in the third fragment is _____.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"243": {
+"n": 243,
+"u": "5",
+"q": "______ A 3200-byte datagram is to be sent over a link with an MTU of 900 bytes. The datagram has the identification number 512. How many fragments are generated? What are the values in the various fields in the IP datagram(s) generated related to fragmentation?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"244": {
+"n": 244,
+"u": "5",
+"q": "Host A is connected to a router R1. R1 is connected to another router R2 and R2 is connected to host B. Suppose that a TCP message that contains 1000 bytes of data including 20 bytes of TCP header is passed to the IP layer at the host A for delivery to B. Maximum frame size between link A-R1 is 1500 bytes including a 15-byte frame header. Link R1-R2 can support a maximum frame size 700 bytes including 10-byte frame header and link R2 B can support maximum frame size of 600 bytes including a 12-byte frame header. find the total length, DF, MF and fragment offset fields of the IP header in the last packet transmitted over the link R1-R2? [Assume 20 B of IP header]",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"245": {
+"n": 245,
+"u": "5",
+"q": "Host A sends a UDP datagram containing 8880 bytes of user data to host B over an Ethernet LAN. Ethernet frames may carry data up to 1500 bytes (i.e. MTU = 1500 bytes). Size of UDP header is 8 bytes and size of IP header is 20 bytes. There is no option field in IP header. How may total number of IP fragments will be transmitted and what will be the contents of offset field in the last fragment?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"246": {
+"n": 246,
+"u": "5",
+"q": "Suppose users share a 3 Mbps link. Also, suppose each user requires 150 kbps when transmitting, but each user transmits only 10 percent of the time. a)When circuit switching is used, how many users can be supported? b)For the remainder of this problem, suppose packet switching is used. Find the probability that a given user is transmitting.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"247": {
+"n": 247,
+"u": "5",
+"q": "An ATM network uses a token bucket scheme for traffic shaping. A new token is put into the bucket every 5 μsec. Each token is good for one cell, which contains 48 bytes of data. What is the maximum sustainable data rate?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"248": {
+"n": 248,
+"u": "5",
+"q": "Consider a router that interconnects three subnets: Subnet 1, Subnet 2, and Subnet 3. Suppose all of the interfaces in each of these three subnets are required to have the prefix 223.1.17/24. Also suppose that Subnet 1 is required to support at least 60 interfaces, Subnet 2 is to support at least 90 interfaces, and Subnet 3 is to support at least 12 interfaces. Provide three network addresses (of the form a.b.c.d/x) that satisfy these constraints.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"249": {
+"n": 249,
+"u": "5",
+"q": "A large number of consecutive IP address are available starting at 198.16.0.0. Suppose that four organizations, A, B, C, and D, request 4000, 2000, 4000, and 8000 addresses, respectively, and in that order. For each of these, give the first IP address assigned, the last IP address assigned, and the mask in the w.x.y.z/s notation.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"250": {
+"n": 250,
+"u": "5",
+"q": "IPv6 uses 16-byte addresses. If a block of 1 million addresses is allocated every picosecond, how long will the addresses last?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"251": {
+"n": 251,
+"u": "5",
+"q": "Find the class of each address. a. 000000001 00001011 00001011 11101111 b. 11000001 10000011 00011011 11111111 c. 14.23.120.8 d. 252.5.15.111",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"252": {
+"n": 252,
+"u": "5",
+"q": "Given the IP address 193.1.2.0 with a subnet mask of 255.255.255.128: a) What is the subnet ID of Subnet-1? b) What is the direct broadcast address of Subnet-1? c) Calculate the total number of usable hosts in Subnet-1 and Subnet-2, justify the answer. d) For Subnet-2, if you needed to create two additional subnets within it while maximizing the number of hosts in each new subnet, what would be the new subnet masks for these subnets? Provide the subnet IDs and broadcast addresses for both new subnets.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"253": {
+"n": 253,
+"u": "5",
+"q": "An ISP is granted a block of addresses starting with 190.100.0.0/16 (65,536 addresses). The ISP needs to distribute these addresses to three groups of customers as follows: a. The first group has 64 customers; each needs 256 addresses. b. The second group has 128 customers; each needs 128 addresses. c. The third group has 128 customers; each needs 64 addresses. Design the sub blocks and find out how many addresses are still available after these allocations",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"254": {
+"n": 254,
+"u": "5",
+"q": "A network with the IP address 10.1.1.0/22 needs to support at least 100 hosts. Is this subnet sufficient? If not, what subnet mask should be used to accommodate at least 100 hosts? Justify your answer.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"255": {
+"n": 255,
+"u": "5",
+"q": "you have been allocated a network which needs to be divided into three subnets having hosts A) 189 B) 1589 C) 3998. also find network and broadcast address for each subnets. How many addresses are wasted in each subnets. The ip address 11.12.13.14/8 is one ip address of given network.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"256": {
+"n": 256,
+"u": "5",
+"q": "You have been assigned the IP address 10.0.0.0/8. If you need to create 16 subnets, what subnet mask should you use?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"257": {
+"n": 257,
+"u": "5",
+"q": "An organization is granted the block 190.76.0.0/16. The administrator wants tocreate 1024 subnets using 10 bits. What is the first and last addresses in last subnet which can assign to host ?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"258": {
+"n": 258,
+"u": "5",
+"q": "Consider a IP address 201.24.58.69 in classful address, if the number of 1's in directed broadcast address is a and number of 1's in network ID, of the given IP address is b, value of a + b",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"259": {
+"n": 259,
+"u": "5",
+"q": "In the network 143.128.67.235/20, if x represent the decimal value of 3rd octet and y represent the decimal value of 4th octet of last IP address assigned to any host, then value of x * y is",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"260": {
+"n": 260,
+"u": "5",
+"q": "In a class B subnet, we know the IP address of one host and the mask as given below: IP address = 125.134.112.66 Mask = 255.255.224.0 What is the first address (Network address)?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"261": {
+"n": 261,
+"u": "5",
+"q": "An IP datagram of length (including a header of 20 bytes) 1800 bytes needs to cross an Ethernet followed by a WAN to reach its destination. The MTU for Ethernet is 1500 bytes. For the WAN, the MTU is given to be 576 bytes. The more-fragment value, fragment offset value and total length field value stored in all the fragments generated are?",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"262": {
+"n": 262,
+"u": "6",
+"q": "Count-to-Infinity problem occurs in _____.",
+"a": "A",
+"m": "1",
+"o": [
+"Distance vector Routing",
+"Link state",
+"Dijkstra’s Algorithm",
+"none of the above"
+]
+},
+"263": {
+"n": 263,
+"u": "6",
+"q": "Which one of the following routing algorithm can be used for network layer design?",
+"a": "D",
+"m": "1",
+"o": [
+"Dijkstra’s Algorithm",
+"distance vector routing",
+"link state routing",
+"all of the mentioned"
+]
+},
+"264": {
+"n": 264,
+"u": "6",
+"q": "Routing tables of a router keeps track of _____.",
+"a": "D",
+"m": "1",
+"o": [
+"MAC Address Assignments",
+"Port Assignments to network devices",
+"Distribute IP address to network devices",
+"Routes to use for forwarding data to its destination"
+]
+},
+"265": {
+"n": 265,
+"u": "6",
+"q": "command is used to manipulate TCP/IP routing table. _____",
+"a": "A",
+"m": "1",
+"o": [
+"route",
+"Ipconfig",
+"Ifconfig",
+"Traceroute"
+]
+},
+"266": {
+"n": 266,
+"u": "6",
+"q": "In _____ forwarding, the full IP address of a destination is given in the routing table.",
+"a": "C",
+"m": "1",
+"o": [
+"next-hop",
+"network-specific",
+"host-specific",
+"default"
+]
+},
+"267": {
+"n": 267,
+"u": "6",
+"q": "The idea of address aggregation was designed to alleviate the increase in routing table entries when using _____.",
+"a": "B",
+"m": "1",
+"o": [
+"classful addressing",
+"classless addressing",
+"both a and b",
+"none of the above"
+]
+},
+"268": {
+"n": 268,
+"u": "6",
+"q": "The routing processor of a router performs the _____ layer functions of the router.",
+"a": "B",
+"m": "1",
+"o": [
+"physical and data link",
+"network",
+"transport",
+"none of the above"
+]
+},
+"269": {
+"n": 269,
+"u": "6",
+"q": "In 223.1.1.0/24,the /24 notations, is known as a _____.",
+"a": "C",
+"m": "1",
+"o": [
+"subnet mask",
+"CIDR",
+"both a and b",
+"none of the above"
+]
+},
+"270": {
+"n": 270,
+"u": "6",
+"q": "In Multicast Routing Protocol, _____ is used to broadcasts packets, but creates loops in the systems.",
+"a": "B",
+"m": "1",
+"o": [
+"Forwarding",
+"Flooding",
+"Backwarding",
+"none of the above"
+]
+},
+"271": {
+"n": 271,
+"u": "6",
+"q": "What is the natural mask for a class C Network?",
+"a": "B",
+"m": "1",
+"o": [
+"255.255.255.1",
+"255.255.255.0",
+"255.255.255.254",
+"255.255.255.255"
+]
+},
+"272": {
+"n": 272,
+"u": "6",
+"q": "In multicast routing, each involved router needs to construct a _____ path tree for each group.",
+"a": "C",
+"m": "1",
+"o": [
+"average",
+"longest",
+"shortest",
+"none of the above"
+]
+},
+"273": {
+"n": 273,
+"u": "6",
+"q": "The Open Shortest Path First (OSPF) protocol is an intradomain routing protocol based on _____ routing.",
+"a": "B",
+"m": "1",
+"o": [
+"distance vector",
+"link state",
+"path vector",
+"none of the above"
+]
+},
+"274": {
+"n": 274,
+"u": "6",
+"q": "In distance vector routing, the updating packets are sent _____.",
+"a": "A",
+"m": "1",
+"o": [
+"periodically",
+"when there is a change",
+"either a or b",
+"neither a nor b"
+]
+},
+"275": {
+"n": 275,
+"u": "6",
+"q": "Which algorithm is used by the router in the link state routing to find the shortest paths?",
+"a": "C",
+"m": "1",
+"o": [
+"OSPF",
+"RIP",
+"Dijkstra algorithm",
+"BGP"
+]
+},
+"276": {
+"n": 276,
+"u": "6",
+"q": "In link state routing, the updating packet conveys the knowledge of the router about",
+"a": "B",
+"m": "1",
+"o": [
+"the whole internetwork",
+"the neighborhood",
+"either a or b",
+"neither a nor b"
+]
+},
+"277": {
+"n": 277,
+"u": "6",
+"q": "Generate the shortest path from node 0 to all the other nodes in the graph using Dijkstra algorithm.",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"278": {
+"n": 278,
+"u": "6",
+"q": "You are running Dijkstra’s algorithm on the edge-weighted digraph below, starting from vertex A.Find shortest path to alll other nodes from A.",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"279": {
+"n": 279,
+"u": "6",
+"q": "Find a shortest path using Distance Vector routing from node Q.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"280": {
+"n": 280,
+"u": "6",
+"q": "Find a shortest path using Bellman-Ford algorithm from node N.",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"281": {
+"n": 281,
+"u": "6",
+"q": "Consider _____ the _____ following _____ network. _____ With _____ the indicated link costs, use Dijkstra’s shortest-path algorithm to compute the shortest path from x to all network nodes.",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"282": {
+"n": 282,
+"u": "6",
+"q": "Consider the network shown below, and assume that each node initially knows the costs to each of its neighbors. Consider the distance-vector algorithm and show the distance table entries at node z.",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"283": {
+"n": 283,
+"u": "6",
+"q": "Find a shortest path using Link State Routing.",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"284": {
+"n": 284,
+"u": "6",
+"q": "Find a shortest path using Dijkstra’s shortest- path algorithm.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"285": {
+"n": 285,
+"u": "6",
+"q": "Consider a network with five nodes, N1 to N5, as shown below The network uses a Distance Vector Routing Protocol.once the Route have stabilized, the distance vectors at different nodes are as following N1:(0,1, 7, 8, 4) N2: (1, 0, 6, 7, 3) N3: (7, 6, 0, 2, 6) N4: (8,7, 2,0,4) N5: (4, 3, 6, 4, 0) Each distance vector is the distance of best known path at that instance to nodes, N1 to N5, where the distance to itself is 0. Also, all links are symmetric and the cost is identical in both directions. In each round, all nodes exchange their distance vectors with their respective neighbors. Then all nodes update the distance vectors. In between two rounds, any change in cost of a link will cause the two incident nodes to change only that entry in their distance vectors. The cost of link N2-N3 reduces to 2 (in both directions). After the next round updates, what will be the new distance vector at node, N3?",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"286": {
+"n": 286,
+"u": "6",
+"q": "Consider a network with 6 routers R1 to R6 connected with links having weights as shown in the following diagram.All the routers use the distance vector based routing algorithm to update their routing tables. Each router starts with its routing table initialized to contain an entry for each neighbour with the weight of the respective connecting link. After all the routing tables stabilize, how many links in the network will never be used for carrying any data?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"287": {
+"n": 287,
+"u": "6",
+"q": "Find the shortest path in the following diagram from A to D.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"288": {
+"n": 288,
+"u": "6",
+"q": "Apply distance vector algorithm in the following diagram",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"289": {
+"n": 289,
+"u": "6",
+"q": "Apply distance vector algorithm in the given diagram",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"290": {
+"n": 290,
+"u": "6",
+"q": "Apply distance vector algorithm in the following diagram.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"291": {
+"n": 291,
+"u": "6",
+"q": "Suppose that forwarding tables are all established and then C-E link fails. What update will be there in the C and E tables after failure and which tables information will be exchanged? what will be the table of A after C and E have reported the news?",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"292": {
+"n": 292,
+"u": "6",
+"q": "Take a graph and find the shortest path from the source to all nodes using distance vector algorithm.",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"293": {
+"n": 293,
+"u": "6",
+"q": "Find a shortest path using link state routing.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"294": {
+"n": 294,
+"u": "6",
+"q": "Find the shortest path from node C to remaining nodes using distance vector routing algorithm.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"295": {
+"n": 295,
+"u": "6",
+"q": "Consider _____ the _____ following _____ network. _____ With _____ the indicated link costs, use Dijkstra’s shortest-path algorithm to compute the shortest path from A to all network nodes.",
+"a": "",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"296": {
+"n": 296,
+"u": "7",
+"q": "Transport layer aggregates data from different applications into a single stream before passing it to _____",
+"a": "A",
+"m": "1",
+"o": [
+"Network Layer",
+"Datalink Layer",
+"Application Layer",
+"Physical Layer"
+]
+},
+"297": {
+"n": 297,
+"u": "7",
+"q": "Transport layer protocols deals with _____",
+"a": "B",
+"m": "1",
+"o": [
+"application to application communication",
+"process to process communication",
+"node to node communication",
+"man to man communication"
+]
+},
+"298": {
+"n": 298,
+"u": "7",
+"q": "A _____ is a TCP name for a transport service access point.",
+"a": "A",
+"m": "1",
+"o": [
+"port",
+"pipe",
+"node",
+"socket"
+]
+},
+"299": {
+"n": 299,
+"u": "7",
+"q": "What are the functions of transport layer?",
+"a": "D",
+"m": "1",
+"o": [
+"Multiplexing/De multiplexing",
+"Connectionless and Connection Oriented Services",
+"Congestion Control",
+"all of the mentioned"
+]
+},
+"300": {
+"n": 300,
+"u": "7",
+"q": "UDP stand s for _____.",
+"a": "A",
+"m": "1",
+"o": [
+"User datagram protocol",
+"Union data Protocol",
+"Unity device protocol",
+"Username data protocol"
+]
+},
+"301": {
+"n": 301,
+"u": "7",
+"q": "Port adress range is _____ in transport layer",
+"a": "B",
+"m": "1",
+"o": [
+"0 to 61,536",
+"0 to 65,535",
+"0 to 62,535",
+"0 to 65,353"
+]
+},
+"302": {
+"n": 302,
+"u": "7",
+"q": "Consider the following statements. I. TCP connections are full duplex. II. TCP has no option for selective acknowledgment III. TCP connections are message streams.",
+"a": "A",
+"m": "1",
+"o": [
+"Only I is correct",
+"Only I and II are correct",
+"Only II and III are correct",
+"All of I, II and III are correct"
+]
+},
+"303": {
+"n": 303,
+"u": "7",
+"q": "Which of the following is not a field in TCP header?",
+"a": "D",
+"m": "1",
+"o": [
+"Sequence number",
+"Window size",
+"Checksum",
+"Fragment offset"
+]
+},
+"304": {
+"n": 304,
+"u": "7",
+"q": "User datagram protocol is called connectionless because _____.",
+"a": "A",
+"m": "1",
+"o": [
+"all UDP packets are treated independently by transport layer",
+"it sends data as a stream of related packets",
+"it is received in the same order as sent order",
+"it sends data very quickly"
+]
+},
+"305": {
+"n": 305,
+"u": "7",
+"q": "Transport layer is resposible for process to process delivery using _____. _____",
+"a": "C",
+"m": "1",
+"o": [
+"IP Address",
+"MAC Address",
+"Port Address",
+"none of the above"
+]
+},
+"306": {
+"n": 306,
+"u": "7",
+"q": "Transport layer can identify the symptoms of overload nodes using _____",
+"a": "B",
+"m": "1",
+"o": [
+"Traffic control",
+"Flow control",
+"Byte orientation",
+"Data Integrity"
+]
+},
+"307": {
+"n": 307,
+"u": "7",
+"q": "With regard to Internet security, the fullform of SSL is _____ and it provides security at _____ layer.",
+"a": "C",
+"m": "1",
+"o": [
+"Simple Socket Layer, Transport",
+"Secure Socket Layer, Application",
+"Secure Socket Layer, Transport",
+"Secure Socket Layer, Application"
+]
+},
+"308": {
+"n": 308,
+"u": "7",
+"q": "The transport layer may be responsible for flow and error control, like the",
+"a": "B",
+"m": "1",
+"o": [
+"Physical layer",
+"Data link layer",
+"Subnet layer",
+"Application layer"
+]
+},
+"309": {
+"n": 309,
+"u": "7",
+"q": "A communication device that combines transmissions from several I/O devices into one line is a",
+"a": "C",
+"m": "1",
+"o": [
+"Concentrator",
+"Modifier",
+"Multiplexer",
+"Full duplex file"
+]
+},
+"310": {
+"n": 310,
+"u": "7",
+"q": "Which of the following are transport layer protocols used in networking?",
+"a": "C",
+"m": "1",
+"o": [
+"TCP and FTP",
+"UDP and HTTP",
+"TCP and UDP",
+"HTTP and FTP"
+]
+},
+"311": {
+"n": 311,
+"u": "7",
+"q": "The sharing of a medium and its link by two or more devices is called?",
+"a": "B",
+"m": "1",
+"o": [
+"Fully duplexing",
+"Multiplexing",
+"Micropleixng",
+"Duplexing"
+]
+},
+"312": {
+"n": 312,
+"u": "7",
+"q": "If there are n signal sources of same data rate, then the TDM link has slots?",
+"a": "A",
+"m": "1",
+"o": [
+"n",
+"n/2",
+"n*2",
+"2^n"
+]
+},
+"313": {
+"n": 313,
+"u": "7",
+"q": "If link transmits 4000 frames per second, and each slot has 8 bits, the transmission rate of circuit using TDM is?",
+"a": "A",
+"m": "1",
+"o": [
+"32kbps",
+"500bps",
+"500kbps",
+"32bps"
+]
+},
+"314": {
+"n": 314,
+"u": "7",
+"q": "does not provide reliable end to end communication. _____",
+"a": "B",
+"m": "1",
+"o": [
+"TCP",
+"UDP",
+"Both TCP and UDP",
+"Neither TCP nor UDP"
+]
+},
+"315": {
+"n": 315,
+"u": "7",
+"q": "ARQ stands for _____",
+"a": "A",
+"m": "1",
+"o": [
+"Automatic Repeat Request",
+"Automatic Request Repeat",
+"Application Repeat Request",
+"Application Request Repeat"
+]
+},
+"316": {
+"n": 316,
+"u": "7",
+"q": "What is the efficiency of a system using synchronous TDM if 2 of the 5 devices have nothing to send?",
+"a": "C",
+"m": "1",
+"o": [
+"0.2",
+"0.5",
+"0.6",
+"1"
+]
+},
+"317": {
+"n": 317,
+"u": "7",
+"q": "The ports ranging from 0 to 1023 are called _____ ports.The ports ranging from 1024 to 49151 are called _____ ports.The ports ranging from 49152 to 65535 are called _____ ports",
+"a": "C",
+"m": "1",
+"o": [
+"well-known,register ed, static or public",
+"unknown,registered, dynamic or private",
+"well-known,register ed, dynamic",
+"well-known,unregis tered, dynamic or private"
+]
+},
+"318": {
+"n": 318,
+"u": "7",
+"q": "_____ What is the minimum and maximum size of TCP Header in bytes?",
+"a": "B",
+"m": "1",
+"o": [
+"40, 60",
+"20, 60",
+"20, 30",
+"60, 120"
+]
+},
+"319": {
+"n": 319,
+"u": "7",
+"q": "Explain the duties of transport layer.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"320": {
+"n": 320,
+"u": "7",
+"q": "Alyssa P. Hacker and Ben Bitdiddle communicate over a link with capacity of 100 pkts / sec. The latency (RTT) on this link is 100 ms. If a sliding window protocol with acknowledgement packets is used, and there is a FIXED window size of 4 packets, what is the maximum rate of traffic on the link?",
+"a": "",
+"m": "7",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"321": {
+"n": 321,
+"u": "7",
+"q": "What are the two types of protocals used in transport layer?",
+"a": "",
+"m": "2",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"322": {
+"n": 322,
+"u": "7",
+"q": "Enlist services provided by transport layer. What is socket? Explain its importance at transport layer protocol",
+"a": "",
+"m": "7",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"323": {
+"n": 323,
+"u": "8",
+"q": "Let the size of congestion window of a TCP connection be 32 KB when a timeout occurs. The round trip time of the connection is 100 msec and the maximum segment size used is 2 KB. The time taken (in msec) by the TCP connection to get back to 32 KB congestion window is _____.",
+"a": "A",
+"m": "2",
+"o": [
+"1100 to 1300",
+"800 to 1000",
+"1400 to 1600",
+"None of the mentioned"
+]
+},
+"324": {
+"n": 324,
+"u": "8",
+"q": "On a TCP connection, current congestion window size is Congestion Window = 4 KB. The window size advertised by the receiver is Advertise Window = 6 KB. The last byte sent by the sender is LastByteSent = 10240 and the last byte acknowledged by the receiver is LastByteAcked = 8192. The current window size at the sender is",
+"a": "B",
+"m": "2",
+"o": [
+"2048 bytes",
+"4096 bytes",
+"6144 bytes",
+"None of the mentioned"
+]
+},
+"325": {
+"n": 325,
+"u": "8",
+"q": "Assume that the bandwidth for a TCP connection is 1048560 bits/sec. Let 'a' be the value of RTT in milliseconds (round off to nearest integer) after which the TCP window scale option is needed. Let 'b' be the maximum possible window size with window scale option. Then the values of 'a' and 'b' are",
+"a": "C",
+"m": "2",
+"o": [
+"63 ms, 65535 x 2^14",
+"63 ms, 65535 x 2^16",
+"500 ms, 65535 x 2^14",
+"None of the mentioned"
+]
+},
+"326": {
+"n": 326,
+"u": "8",
+"q": "The main difference between TCP and UDP is",
+"a": "A",
+"m": "1",
+"o": [
+"UDP is a datagram where as TCP is a connection oriented service",
+"UDP is connection oriented where as TCP is datagram service",
+"TCP is an Internet protocol where as UDP is an ATM protocol",
+"TCP and UDP both are connectionless service protocol"
+]
+},
+"327": {
+"n": 327,
+"u": "8",
+"q": "End-to-end connectivity is provided from host-to-host in:",
+"a": "D",
+"m": "1",
+"o": [
+"Session layer",
+"Network layer",
+"Data link layer",
+"Transport layer"
+]
+},
+"328": {
+"n": 328,
+"u": "8",
+"q": "Security based connection is provided by which layer?",
+"a": "A",
+"m": "1",
+"o": [
+"Transport layer",
+"Application layer",
+"Network layer",
+"Session layer"
+]
+},
+"329": {
+"n": 329,
+"u": "8",
+"q": "In transport layer, message is divided into transmittable",
+"a": "A",
+"m": "1",
+"o": [
+"Segments",
+"Packets",
+"Frames",
+"Data"
+]
+},
+"330": {
+"n": 330,
+"u": "8",
+"q": "Which of the following statement is incorrect?",
+"a": "C",
+"m": "1",
+"o": [
+"The data link layer handles the transfer of data between the ends of a physical link",
+"The presentation layer transforms information from machine format to the understandable format",
+"The transport layer provides for any format, translationer code conversion necessary to put the data into an intelligible format",
+"All of the above"
+]
+},
+"331": {
+"n": 331,
+"u": "8",
+"q": "In TCP, an ACK segment, if carrying no data, consumes _____ Sequence number(s).",
+"a": "A",
+"m": "1",
+"o": [
+"no",
+"one",
+"two",
+"three"
+]
+},
+"332": {
+"n": 332,
+"u": "8",
+"q": "TCP and UDP are called _____",
+"a": "C",
+"m": "1",
+"o": [
+"Application Protocals",
+"Session Protocals",
+"Transport Protocals",
+"Network Protocals"
+]
+},
+"333": {
+"n": 333,
+"u": "8",
+"q": "In TCP, SYN segment consumes _____ Sequence number(s).",
+"a": "B",
+"m": "1",
+"o": [
+"no",
+"one",
+"two",
+"three"
+]
+},
+"334": {
+"n": 334,
+"u": "8",
+"q": "A client that wishes to connect to an open server tells its TCP that it needs to be connected to that particular server. The process is called _____",
+"a": "A",
+"m": "1",
+"o": [
+"Active open",
+"Active close",
+"Passive close",
+"Passive open"
+]
+},
+"335": {
+"n": 335,
+"u": "8",
+"q": "Transmission Control Protocol (TCP), needs buffers for",
+"a": "A",
+"m": "1",
+"o": [
+"Storage",
+"Request",
+"Connections",
+"Transmission"
+]
+},
+"336": {
+"n": 336,
+"u": "8",
+"q": "UDP packets have a fixed-size header of _____ bytes.",
+"a": "B",
+"m": "1",
+"o": [
+"16",
+"8",
+"40",
+"32"
+]
+},
+"337": {
+"n": 337,
+"u": "8",
+"q": "The Source port number on the UDP user datagram header defines _____",
+"a": "C",
+"m": "1",
+"o": [
+"The sender computer",
+"The receiver computer",
+"The process running on the sending computer",
+"The process running on receiving computer"
+]
+},
+"338": {
+"n": 338,
+"u": "8",
+"q": "Transmission Control Protocol (TCP), A connection- oriented transport protocol establishes a _____",
+"a": "B",
+"m": "1",
+"o": [
+"Virtual Communication",
+"Virtual Path",
+"Virtual Flow",
+"Virtual Flow"
+]
+},
+"339": {
+"n": 339,
+"u": "8",
+"q": "In User Datagram Protocol (UDP), the user datagrams are not _____",
+"a": "C",
+"m": "1",
+"o": [
+"Channeled",
+"Transformed",
+"Numbered",
+"Addressed"
+]
+},
+"340": {
+"n": 340,
+"u": "8",
+"q": "Beyond IP, UDP provides additional services such as _____",
+"a": "D",
+"m": "1",
+"o": [
+"Routing and switching",
+"Sending and receiving of packets",
+"Multiplexing and demultiplexing",
+"Demultiplexing and error checking"
+]
+},
+"341": {
+"n": 341,
+"u": "8",
+"q": "“Total length” field in UDP packet header is the length of",
+"a": "D",
+"m": "1",
+"o": [
+"Only UDP header",
+"Only data",
+"Only checksum",
+"UDP header plus data"
+]
+},
+"342": {
+"n": 342,
+"u": "8",
+"q": "Suppose a TCP connection is transferring a file of 1000 bytes. The first byte is numbered 10001. What is the sequence number of the segment if all data is sent in only one segment?",
+"a": "B",
+"m": "1",
+"o": [
+"10000",
+"10001",
+"12001",
+"11001"
+]
+},
+"343": {
+"n": 343,
+"u": "8",
+"q": "Connection establishment in TCP is done by which mechanism?",
+"a": "B",
+"m": "1",
+"o": [
+"Flow control",
+"Three-Way Handshaking",
+"Forwarding",
+"Synchronization"
+]
+},
+"344": {
+"n": 344,
+"u": "8",
+"q": "What allows TCP to detect lost segments and in turn recover from that loss?",
+"a": "D",
+"m": "1",
+"o": [
+"Sequence number",
+"Acknowledgmen t number",
+"Checksum",
+"Both Sequence & Acknowledgment number"
+]
+},
+"345": {
+"n": 345,
+"u": "8",
+"q": "Beyond IP, UDP provides additional services such as _____",
+"a": "D",
+"m": "1",
+"o": [
+"Routing and switching",
+"Sending and receiving of packets",
+"Multiplexing and demultiplexing",
+"Demultiplexing and error checking"
+]
+},
+"346": {
+"n": 346,
+"u": "8",
+"q": "The port number is “ephemeral port number”, if the source host is _____",
+"a": "D",
+"m": "1",
+"o": [
+"NTP",
+"Echo",
+"Server",
+"Client"
+]
+},
+"347": {
+"n": 347,
+"u": "8",
+"q": "UDP is _____ protocol.",
+"a": "A",
+"m": "1",
+"o": [
+"Transport Layer Connectionless",
+"Session Layer Connectionless",
+"Transport Layer Connection Oriented",
+"Session Layer Connection Oriented"
+]
+},
+"348": {
+"n": 348,
+"u": "8",
+"q": "Consider the following statements regarding the OSI model: (1) Application Layer provides the control structure for communication between applications; establishes , manages and terminates connection between cooperating applications. (2) Datalink Layer provides for the reliable transfer of information across the physical link. (3) Transport Layer provides end-to-end error recovery and flow control of data. Which of the above statements are correct?",
+"a": "D",
+"m": "2",
+"o": [
+"1 and 2 only",
+"1 and 3 only",
+"1, 2 and 3 only",
+"2 and 3 only"
+]
+},
+"349": {
+"n": 349,
+"u": "8",
+"q": "Consider a long-lived TCP session with an end-to-end bandwidth of 1 Gbps. The session starts with a sequence number of 1234. The minimum time before this sequence number can be used again _____",
+"a": "B",
+"m": "1",
+"o": [
+"30-32",
+"34 - 35",
+"20-23",
+"40-45"
+]
+},
+"350": {
+"n": 350,
+"u": "8",
+"q": "The transport layer protocols use for real time multimedia, file transfer are",
+"a": "C",
+"m": "1",
+"o": [
+"UDP, UDP",
+"TCP, TCP",
+"UDP, TCP",
+"TCP, UDP"
+]
+},
+"351": {
+"n": 351,
+"u": "8",
+"q": "The transport layer protocols use for DNS and email respectively are _____",
+"a": "C",
+"m": "1",
+"o": [
+"UDP, UDP",
+"TCP, TCP",
+"UDP, TCP",
+"TCP, UDP"
+]
+},
+"352": {
+"n": 352,
+"u": "8",
+"q": "Consider the following statements regarding the slow start phase of the TCP congestion control algorithm. Note that cwnd stands for the TCP congestion wiindow and MSS denotes the maximum segment size. (i) The cwnd increases by 2 MSS on every successful acknowledgement (ii) The cwnd increases doubles on every successful acknowledgement (iii) The cwnd increases by 1 MSS on every round trip time (iv) The cwnd approximately doubles on every round trip time. Which one of following is correct?",
+"a": "C",
+"m": "2",
+"o": [
+"Only (ii) and (iii) are true",
+"Only (i) and (iii) are true",
+"Only (iv) is true",
+"Only (i) and (iv) are true"
+]
+},
+"353": {
+"n": 353,
+"u": "8",
+"q": "What is the value of the receiver window (rwnd) for host A if the receiver, host B, has a buffer size of 7000 bytes and 1000 bytes of received and unprocessed data in bytes?",
+"a": "C",
+"m": "1",
+"o": [
+"1000",
+"7000",
+"6000",
+"2000"
+]
+},
+"354": {
+"n": 354,
+"u": "8",
+"q": "What is the size ofthe window in bytes for host A ifthe value ofrwnd is 3000 bytes and the value of cwnd is 5500 bytes?",
+"a": "D",
+"m": "1",
+"o": [
+"1000",
+"7000",
+"6000",
+"3000"
+]
+},
+"355": {
+"n": 355,
+"u": "8",
+"q": "The following is a dump of a UDP header in hexadecimal format. _____ CB84002C 001C0AEC What is the destination port number?",
+"a": "D",
+"m": "2",
+"o": [
+"43",
+"32",
+"42",
+"44"
+]
+},
+"356": {
+"n": 356,
+"u": "8",
+"q": "The following is a dump of a UDP header in hexadecimal format. _____ DB84002C001E0A1C What is the length of the data?",
+"a": "C",
+"m": "2",
+"o": [
+"19",
+"18",
+"22",
+"20"
+]
+},
+"357": {
+"n": 357,
+"u": "8",
+"q": "Compare connectionless services and connection oriented services.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"358": {
+"n": 358,
+"u": "8",
+"q": "Explain factors measuring the network traffic performance.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"359": {
+"n": 359,
+"u": "8",
+"q": "Let the size of congestion window of a TCP connection be 32KB when a timeout occurs. The round trip time of the connection is 100 msec and the maximum segment size used is 2KB. The time taken (in msec) by the TCP connection to get back to 32KB congestion window is _____. 1100- 1300",
+"a": "1100- 1300",
+"m": "5",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"360": {
+"n": 360,
+"u": "8",
+"q": "How TCP protocol provides reliability?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"361": {
+"n": 361,
+"u": "8",
+"q": "Explain the error control mechanism in TCP?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"362": {
+"n": 362,
+"u": "8",
+"q": "List the services of end to end services.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"363": {
+"n": 363,
+"u": "8",
+"q": "What are the advantages of using UDP over TCP?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"364": {
+"n": 364,
+"u": "8",
+"q": "Which protocol uses both TCP and UDP? and How?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"365": {
+"n": 365,
+"u": "8",
+"q": "What is the value of the receiver window (rwnd) for host A if the receiver, host B, has a buffer size of 6000 bytes and 1000 bytes of received and unprocessed data?",
+"a": "5000",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"366": {
+"n": 366,
+"u": "8",
+"q": "What is the value of the receiver window (rwnd) for host A if the receiver, host B, has a buffer size of 5000 bytes and 1000 bytes of received and unprocessed data?",
+"a": "4000",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"367": {
+"n": 367,
+"u": "8",
+"q": "What is the size ofthe window for host A ifthe value ofrwnd is 3000 bytes and the value of cwnd is 4500 bytes?",
+"a": "3000 bytes",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"368": {
+"n": 368,
+"u": "8",
+"q": "What is the size ofthe window for host A ifthe value ofrwnd is 4000 bytes and the value of cwnd is 4500 bytes?",
+"a": "4000 bytes",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"369": {
+"n": 369,
+"u": "8",
+"q": "What is the size ofthe window for host A ifthe value ofrwnd is 3000 bytes and the value of cwnd is 3500 bytes?",
+"a": "3000 bytes",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"370": {
+"n": 370,
+"u": "8",
+"q": "Flow Control versus Congestion control",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"371": {
+"n": 371,
+"u": "8",
+"q": "The following is a dump of a UDP header in hexadecimal format. AA84000D001A001A i. What is the source port number? ii. What is the destination port number? iii. What is the total length of the user datagram? iv. What is the length of the data?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"372": {
+"n": 372,
+"u": "8",
+"q": "The following is a dump of a UDP header in hexadecimal format. ABAB000D001C001C i. What is the source port number? ii. What is the destination port number? iii. What is the total length of the user datagram? iv. What is the length of the data?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"373": {
+"n": 373,
+"u": "8",
+"q": "The following is a dump of a UDP header in hexadecimal format. CCDD000D001C001C i. What is the source port number? ii. What is the destination port number? iii. What is the total length of the user datagram? iv. What is the length of the data?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"374": {
+"n": 374,
+"u": "8",
+"q": "The following is a dump of a UDP header in hexadecimal format. CB84000D001C001C i. What is the source port number? ii. What is the destination port number? iii. What is the total length of the user datagram? iv. What is the length of the data?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"375": {
+"n": 375,
+"u": "8",
+"q": "Explain the TCP Segment structure and justify the importance of its field values.",
+"a": "",
+"m": "7",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"376": {
+"n": 376,
+"u": "8",
+"q": "What are various reliable data transfer mechanisms and for what purpose are they used?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"377": {
+"n": 377,
+"u": "8",
+"q": "How many packets overhead while doing the data communication using TCP? Draw the TCP connection establishment and termination process with diagram",
+"a": "",
+"m": "7",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"378": {
+"n": 378,
+"u": "8",
+"q": "Explain how ip address will get by host A if it wants to connect with",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"379": {
+"n": 379,
+"u": "9",
+"q": "Address used at application layer is",
+"a": "A",
+"m": "1",
+"o": [
+"URL",
+"port address",
+"MAC address",
+"IP address"
+]
+},
+"380": {
+"n": 380,
+"u": "9",
+"q": "The packet of information at the application layer is called",
+"a": "B",
+"m": "1",
+"o": [
+"Packet",
+"Message",
+"Segment",
+"Frame"
+]
+},
+"381": {
+"n": 381,
+"u": "9",
+"q": "Which one of the following is an architecture paradigms?",
+"a": "D",
+"m": "1",
+"o": [
+"Peer to peer",
+"Client-server",
+"HTTP",
+"Both Peer-to-Peer & Client-Server"
+]
+},
+"382": {
+"n": 382,
+"u": "9",
+"q": "Application developer has permission to decide the following on transport layer side",
+"a": "C",
+"m": "1",
+"o": [
+"Transport layer protocol",
+"Maximum buffer size",
+"Both Transport layer protocol and Maximum buffer size",
+"None of the mentioned"
+]
+},
+"383": {
+"n": 383,
+"u": "9",
+"q": "Application layer offers _____ service.",
+"a": "A",
+"m": "1",
+"o": [
+"End to end",
+"Process to process",
+"Both End to end and Process to process",
+"None of the mentioned"
+]
+},
+"384": {
+"n": 384,
+"u": "9",
+"q": "E-mail is _____",
+"a": "C",
+"m": "1",
+"o": [
+"Loss-tolerant application",
+"Bandwidth- sensitive application",
+"Elastic application",
+"None of the mentioned"
+]
+},
+"385": {
+"n": 385,
+"u": "9",
+"q": "Which is a time-sensitive service?",
+"a": "D",
+"m": "1",
+"o": [
+"File transfer",
+"File download",
+"E-mail",
+"Internet telephony"
+]
+},
+"386": {
+"n": 386,
+"u": "9",
+"q": "Electronic mail uses which Application layer protocol?",
+"a": "A",
+"m": "1",
+"o": [
+"SMTP",
+"HTTP",
+"FTP",
+"SIP"
+]
+},
+"387": {
+"n": 387,
+"u": "9",
+"q": "The _____ translates internet domain and host names to IP address.",
+"a": "A",
+"m": "1",
+"o": [
+"domain name system",
+"routing information protocol",
+"network time protocol",
+"internet relay chat"
+]
+},
+"388": {
+"n": 388,
+"u": "9",
+"q": "Which one of the following allows a user at one site to establish a connection to another site and then pass keystrokes from local host to remote host?",
+"a": "C",
+"m": "1",
+"o": [
+"HTTP",
+"FTP",
+"Telnet",
+"TCP"
+]
+},
+"389": {
+"n": 389,
+"u": "9",
+"q": "In one of the pairs of protocols given below, both the protocols can use multiple TCP connections between the same client and the server. Which one is that?",
+"a": "A",
+"m": "1",
+"o": [
+"HTTP, FTP",
+"HTTP, TELNET",
+"FTP, SMTP",
+"HTTP, SMTP"
+]
+},
+"390": {
+"n": 390,
+"u": "9",
+"q": "Which of the following protocol is used for transferring electronic mail messages from one machine to another?",
+"a": "D",
+"m": "1",
+"o": [
+"TELNET",
+"FTP",
+"SNMP",
+"SMTP"
+]
+},
+"391": {
+"n": 391,
+"u": "9",
+"q": "A web client sends a request to a web server. The web server transmits a program to that client ans is executed at client. It creates a web document. What are such web documents called?",
+"a": "A",
+"m": "1",
+"o": [
+"Active",
+"Static",
+"Dynamic",
+"Passive"
+]
+},
+"392": {
+"n": 392,
+"u": "9",
+"q": "Pick the odd one out.",
+"a": "D",
+"m": "1",
+"o": [
+"File transfer",
+"File download",
+"E-mail",
+"Interactive games"
+]
+},
+"393": {
+"n": 393,
+"u": "9",
+"q": "The _____ translates internet domain and host names to IP address.",
+"a": "A",
+"m": "1",
+"o": [
+"domain name system",
+"routing information protocol",
+"internet relay chat",
+"network time protocol"
+]
+},
+"394": {
+"n": 394,
+"u": "9",
+"q": "Application layer protocol defines:",
+"a": "C",
+"m": "1",
+"o": [
+"types of messages exchanged",
+"message format, syntax and semantics",
+"rules for when and how processes send",
+"all of the mentioned"
+]
+},
+"395": {
+"n": 395,
+"u": "9",
+"q": "Which is not a application layer protocol?",
+"a": "C",
+"m": "1",
+"o": [
+"HTTP",
+"SMTP",
+"UDP",
+"HTTPS"
+]
+},
+"396": {
+"n": 396,
+"u": "9",
+"q": "Which is not a application layer protocol?",
+"a": "D",
+"m": "1",
+"o": [
+"HTTP",
+"SMTP",
+"FTP",
+"TCP"
+]
+},
+"397": {
+"n": 397,
+"u": "9",
+"q": "What are the responsibilities of application layer?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"398": {
+"n": 398,
+"u": "9",
+"q": "What are the steps to transfer a mail message?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"399": {
+"n": 399,
+"u": "9",
+"q": "List out common TCP/IP protocols.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"400": {
+"n": 400,
+"u": "9",
+"q": "What is HTTP and what port does it use?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"401": {
+"n": 401,
+"u": "9",
+"q": "Explain the functions of SMTP.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"402": {
+"n": 402,
+"u": "9",
+"q": "What is the difference between a user agent (UA) and a mail transfer agent (MTA)?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"403": {
+"n": 403,
+"u": "9",
+"q": "What is the Domain name system responsible for?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"404": {
+"n": 404,
+"u": "9",
+"q": "What are the four main properties of HTTP?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"405": {
+"n": 405,
+"u": "9",
+"q": "What are the responsibilities of Application Layer?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"406": {
+"n": 406,
+"u": "9",
+"q": "What are the types of messages in HTTP transaction?",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"407": {
+"n": 407,
+"u": "9",
+"q": "Explain the functions of SMTP.",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"408": {
+"n": 408,
+"u": "9",
+"q": "Explain role of application layer while sending an e-mail?",
+"a": "",
+"m": "3",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"409": {
+"n": 409,
+"u": "9",
+"q": "List five different examples involving role of application layer.",
+"a": "",
+"m": "4",
+"o": [
+"",
+"",
+"",
+""
+]
+},
+"410": {
+"n": 410,
+"u": "10",
+"q": "If you want to find the number of routers between a source and destination, the utility to be used is _____",
+"a": "D",
+"m": "1",
+"o": [
+"route",
+"Ipconfig",
+"Ifconfig",
+"Traceroute"
+]
+},
+"411": {
+"n": 411,
+"u": "10",
+"q": "command is used to manipulate TCP/IP routing table. _____",
+"a": "A",
+"m": "1",
+"o": [
+"route",
+"Ipconfig",
+"Ifconfig",
+"Traceroute"
+]
+},
+"412": {
+"n": 412,
+"u": "10",
+"q": "Ping sweep is a part of _____",
+"a": "B",
+"m": "1",
+"o": [
+"route",
+"N-map",
+"Ifconfig",
+"Traceroute"
+]
+},
+"413": {
+"n": 413,
+"u": "10",
+"q": "Wireshark is a _____ tool.",
+"a": "A",
+"m": "1",
+"o": [
+"network protocol analysis",
+"network connection security",
+"connection analysis",
+"defending malicious packet- filtering"
+]
+},
+"414": {
+"n": 414,
+"u": "10",
+"q": "Wireshark filter for filter by IP",
+"a": "A",
+"m": "1",
+"o": [
+"ip.addr == 10.10.50.1",
+"ip.dest == 10.10.50.1",
+"ip.src == 10.10.50.1",
+"None of mentioned"
+]
+},
+"415": {
+"n": 415,
+"u": "10",
+"q": "Wireshark filter for filter by destination Ip",
+"a": "B",
+"m": "1",
+"o": [
+"ip.addr == 10.10.50.1",
+"ip.dest == 10.10.50.1",
+"ip.src == 10.10.50.1",
+"None of mentioned"
+]
+},
+"416": {
+"n": 416,
+"u": "10",
+"q": "Wireshark filter for filter by Sorce IP",
+"a": "C",
+"m": "1",
+"o": [
+"ip.addr == 10.10.50.1",
+"ip.dest == 10.10.50.1",
+"ip.src == 10.10.50.1",
+"None of mentioned"
+]
+},
+"417": {
+"n": 417,
+"u": "10",
+"q": "Wireshark filter for filter by Port",
+"a": "A",
+"m": "1",
+"o": [
+"tcp.port == 25",
+"tcp.port.port==25",
+"tcp.dstport == 25",
+"None of mentioned"
+]
+},
+"418": {
+"n": 418,
+"u": "10",
+"q": "Wireshark filter for filter by URL",
+"a": "B",
+"m": "1",
+"o": [
+"tcp.port == 25",
+"http.host == \"host name\"",
+"tcp.dstport.port == 25",
+"None of mentioned"
+]
+},
+"419": {
+"n": 419,
+"u": "10",
+"q": "Wireshark filter for filter by Destination Port",
+"a": "C",
+"m": "1",
+"o": [
+"tcp.port == 25",
+"tcp.port.port==25",
+"tcp.dstport == 25",
+"None of mentioned"
+]
+},
+"420": {
+"n": 420,
+"u": "10",
+"q": "What will be the filter if I want to find out packet from or for specific ip address 8.8.8.8",
+"a": "A",
+"m": "1",
+"o": [
+"ip.addr==8.8.8.8",
+"ipaddress=8.8.8.8",
+"ip address=8.8.8.8",
+"ip ,,addr==8.8.8.8"
+]
+}
+}

@@ -1,0 +1,289 @@
+@import "tailwindcss";
+
+/* Palette: cool green-grey "lab bench" neutrals, fibre-blue accent.
+   Every colour is a token; dark mode only redefines the tokens. */
+:root {
+  --bg: #f1f4f2;
+  --surface: #ffffff;
+  --sunken: #e8ede9;
+  --ink: #16201c;
+  --muted: #5b6b64;
+  --faint: #8a9993;
+  --line: #d5ddd8;
+  --accent: #1f63c6;
+  --accent-ink: #ffffff;
+  --accent-soft: #e3ecfa;
+  --good: #1f7a45;
+  --good-soft: #e1f2e7;
+  --bad: #b8322f;
+  --bad-soft: #fbe6e5;
+  --warn: #9a6400;
+  --warn-soft: #fbf0d9;
+  --code-bg: #eef2ef;
+  --heat-0: #e8ede9;
+  --heat-1: #b7d3f6;
+  --heat-2: #6da7ec;
+  --heat-3: #2a78d6;
+  --heat-4: #104281;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1412;
+    --surface: #151d1a;
+    --sunken: #1b2521;
+    --ink: #e2eae6;
+    --muted: #93a49c;
+    --faint: #6c7d75;
+    --line: #26322d;
+    --accent: #6fa6f2;
+    --accent-ink: #0b1422;
+    --accent-soft: #17263d;
+    --good: #5cc98a;
+    --good-soft: #13291d;
+    --bad: #f08a86;
+    --bad-soft: #351a19;
+    --warn: #e9b65a;
+    --warn-soft: #2f2412;
+    --code-bg: #111916;
+    --heat-0: #1b2521;
+    --heat-1: #184f95;
+    --heat-2: #2a78d6;
+    --heat-3: #6da7ec;
+    --heat-4: #b7d3f6;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #0e1412;
+  --surface: #151d1a;
+  --sunken: #1b2521;
+  --ink: #e2eae6;
+  --muted: #93a49c;
+  --faint: #6c7d75;
+  --line: #26322d;
+  --accent: #6fa6f2;
+  --accent-ink: #0b1422;
+  --accent-soft: #17263d;
+  --good: #5cc98a;
+  --good-soft: #13291d;
+  --bad: #f08a86;
+  --bad-soft: #351a19;
+  --warn: #e9b65a;
+  --warn-soft: #2f2412;
+  --code-bg: #111916;
+  --heat-0: #1b2521;
+  --heat-1: #184f95;
+  --heat-2: #2a78d6;
+  --heat-3: #6da7ec;
+  --heat-4: #b7d3f6;
+  color-scheme: dark;
+}
+
+@theme {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-sunken: var(--sunken);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-code: var(--code-bg);
+  --font-display: "Archivo", "Arial Narrow", system-ui, sans-serif;
+  --font-sans: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", Consolas, ui-monospace, monospace;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+/* Text size: scales every rem-based size in the app. */
+html[data-size="s"] { font-size: 93.75%; }
+html[data-size="l"] { font-size: 112.5%; }
+html[data-size="xl"] { font-size: 125%; }
+
+/* Easy-read fonts: designed for legibility, also help many dyslexic readers. */
+html[data-font="lexend"] {
+  --font-sans: "Lexend", "Segoe UI", system-ui, sans-serif;
+  --font-display: "Lexend", "Segoe UI", system-ui, sans-serif;
+}
+html[data-font="atkinson"] {
+  --font-sans: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+  --font-display: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+html[data-font="lexend"] body,
+html[data-font="atkinson"] body {
+  letter-spacing: 0.01em;
+  line-height: 1.7;
+  word-spacing: 0.04em;
+}
+html[data-font="lexend"] .display,
+html[data-font="atkinson"] .display {
+  font-stretch: 100%;
+  letter-spacing: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  text-wrap: balance;
+}
+
+.display {
+  font-family: var(--font-display);
+  font-stretch: 88%;
+  letter-spacing: -0.01em;
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Rendered Markdown (solutions, notes, AI answers) */
+.prose-x {
+  max-width: 72ch;
+  overflow-wrap: anywhere;
+}
+.prose-x > * + * {
+  margin-top: 0.6em;
+}
+.prose-x h1,
+.prose-x h2,
+.prose-x h3,
+.prose-x h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.02rem;
+  margin-top: 1.1em;
+}
+.prose-x strong {
+  font-weight: 600;
+}
+.prose-x ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+.prose-x ol {
+  list-style: decimal;
+  padding-left: 1.4rem;
+}
+.prose-x li + li {
+  margin-top: 0.2em;
+}
+.prose-x code {
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  background: var(--code-bg);
+  padding: 0.08em 0.35em;
+  border-radius: 4px;
+}
+.prose-x pre {
+  background: var(--code-bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.75rem 0.9rem;
+  overflow-x: auto;
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+.prose-x pre code {
+  background: none;
+  padding: 0;
+  font-size: inherit;
+}
+.prose-x .table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+.prose-x table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.88rem;
+  font-variant-numeric: tabular-nums;
+}
+.prose-x th,
+.prose-x td {
+  text-align: left;
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+.prose-x th {
+  background: var(--sunken);
+  font-weight: 600;
+  white-space: nowrap;
+}
+.prose-x tr:last-child td {
+  border-bottom: none;
+}
+.prose-x a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Flashcard flip */
+.flip {
+  perspective: 1400px;
+}
+.flip-inner {
+  transition: transform 0.45s cubic-bezier(0.2, 0.7, 0.2, 1);
+  transform-style: preserve-3d;
+  display: grid;
+}
+.flip-inner > * {
+  grid-area: 1 / 1;
+  backface-visibility: hidden;
+}
+.flip.is-flipped .flip-inner {
+  transform: rotateY(180deg);
+}
+.flip-back {
+  transform: rotateY(180deg);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
